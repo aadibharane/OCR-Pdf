@@ -1,0 +1,11 @@
+Unnamed: 0,JETSON TX2,JETSON AGX XAVIER
+GPU,256 Core Pascal,512 Core Volta
+DL Accelerator,-,NVDLA x 2
+"VisionAccelerator",-,VLA – 7 way VLIW Processor
+CPU,6 core Denver and A57 CPUs,8 core Carmel CPUs
+Memory,"8 GB 128 bit LPDDR458.4 GB/s","16 GB 256 bit LPDDR4x137 GB/s"
+Storage,32 GB eMMC,32 GB eMMC
+Video Encode,"2x 4K @30HEVC","2x 4K @ 60 / 4x 4K @30HEVC"
+Video Decode,"2x 4K @3012 bit support","2x 8K @ 30 / 8x 4K @3012 bit support"
+Camera,"Up to 6 camerasCSI2 D-PHY 1.2 2.5Gbps/lane","Up to 8 camerasCSI2 D-PHY 1.2 2.5 Gbps/lane"
+Mechanical,"50mm x 87mm400 pin connector","100mm x 87mm699 pin connector"

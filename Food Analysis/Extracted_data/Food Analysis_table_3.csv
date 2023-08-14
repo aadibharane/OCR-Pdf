@@ -1,0 +1,29 @@
+bAnalyte Units,a Method reference,Unnamed: 0,LOQ,Unnamed: 1,Reproducibility
+"Analyses conducted at AsureQuality, New Zealand",,,,,
+Proximate components,,,,,
+Protein g/100 g,Block digestion (AOAC 981.10),,0.1,,0.2HResult
+Fat (total) g/100 g,Acid hydrolysis (AOAC 948.15),,0.1,,0.5%
+Moisture g/100 g,Air drying (AOAC 950.46),,0.1,,0.8%
+Ash g/100 g,Direct method (AOAC 920.153),,0.1,,0.8%
+Minerals,,,,,
+Iron mg/kg,"Acid Digest, ICP OES (APA et al., 2012)",,0.62,,7%
+Zinc mg/kg,"Acid digest, ICP OES (APA et al., 2012)",,1.5,,7%
+Calcium mg/kg,"Acid Digest, ICP OES (APA et al., 2012)",,2.8,,8%
+Iodine mg/kg,"TMAH Digestion, ICP MS (APA et al., 2012)",,0.02,,10%
+Selenium mg/kg,"TMAH Digestion, ICP MS (APA et al., 2012)",,0.02,,7%
+Phosphorus mg/kg,"Acid Digest, ICP OES (APA et al., 2012)",,3.3,,8%
+Magnesium mg/kg,"Acid digest, ICP OES (APA et al., 2012)",,0.74,,7%
+Sodium mg/kg,"Acid Digest, ICP OES (APA et al., 2012)",,2.7,,8%
+Potassium mg/kg,"Acid Digest, ICP OES (APA et al., 2012)",,3.3,,8%
+Manganese mg/kg,"Acid digest, ICP OES (APA et al., 2012)",,0.05,,7%
+Sulphur mg/100 g,"Acid digest, ICP OES (APA et al., 2012)",,0.02,,7%
+Copper mg/kg,"Acid digest, ICP OES (APA et al., 2012)",,0.1,,8%
+Chromium mg/kg,"Wet Oxidation, ICP MS (APA et al., 2012)",,0.05,,10%
+Vitamins,,,,,
+Vitamin B12 mg/100 g,Surface plasmon resonance (AOAC 2011.16),,0.2,,12%
+Vitamin D3 IU/100 g,"HPLC (Brubacher et al., 1985)",,20.0,,16%
+Vitamin D2 IU/100 g,"HPLC (Brubacher et al., 1985)",,20.0,,16%
+Vitamin E (a-tocopherol) IU/100 g,"HPLC (Brubacher et al., 1985)",,0.11,,10%
+"Vitamin E, g, d tocopherols) IU/100 g","HPLC (Brubacher et al., 1985)",,0.01,,10%
+Folate mg/100 g,Optical biosensor assay (AOAC 2011.05),,8.0,,12%
+Fatty Acids mg/100 g,"GLC (Bannon et al., 1985)",,10.0,,12%

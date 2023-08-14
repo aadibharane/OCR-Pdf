@@ -1,0 +1,12 @@
+Plugin Name,Functionality
+gst-nvvideocodecs,Accelerated video decoders
+gst-nvstreammux,Stream aggregator - muxer and batching
+gst-nvinfer,TensorRT based inference for detection & classification
+gst-nvtracker,Reference KLT tracker implementation
+gst-nvosd,On-Screen Display API to draw boxes and text overlay
+gst-tiler,Renders frames from multi-source into 2D grid array
+gst-eglglessink,Accelerated X11 / EGL based renderer plugin
+gst-nvvidconv,"Scaling, format conversion, rotation"
+Gst-nvdewarp,Dewarping for 360 Degree camera input
+Gst-nvmsgconv,Meta data generation
+Gst-nvmsgbroker,Messaging to Cloud

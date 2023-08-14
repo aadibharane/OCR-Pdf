@@ -1,0 +1,1719 @@
+\
+A\
+/ |
+
+eV
+Nie >Hi
+
+@A NVIDIA
+
+DEEPSTREAM SDK
+
+Chris Ding F# From Nvidia TSE Team 11/22/2018
+
+AGENDA |
+
+eo NSM Fs wD >
+
+Introduction: An Edge to Cloud Solution
+Framework
+
+Understand the Basics: DeepStream SDK
+Build with DeepStream: Example Applications
+Getting Started Resources
+
+DeepStream 3.0
+
+DeepStream in Docker
+
+Perception and Analytics for Global Understanding
+DeepStream for |IOT
+
+An Overview of TensorRT 5.0
+
+Transfer Learning Toolkit
+
+Metropolis Partner Program
+
+2
+
+NVIDIA.
+
+EDGE-TO-CLOUD
+SOLUTION
+
+Parking Management
+
+b "
+/ 4 .*s .
+" 00:12:11
+
+Retail Analytics Managing Logistics
+
+WEN RBALE AS MANS BERR, FOE BOT, RELEASE
+Naw, Sit, FH, RB, Aseawees.
+
+4 Anvipia.
+
+SCALABILITY - AN EDGE TO CLOUD
+ARCHITECTURE
+
+1} )
+
+Where deploy
+
+Smart buildi
+mart building intelligence?
+
+Airport security
+
+CAMERA
+
+Parking entrance
+
+Law enforcement
+
+were NOT DISTRIBUTE. 5 nv.
+
+
+NVIDIA METROPOLIS —
+EDGE TO CLOUD
+
+EDGE AND ON-PREMISES Da CLOUD
+
+Camera NVR Server Data center
+
+JETSON
+
+
+NVIDIA T4 UNIVERSAL INFERENCE
+ACCELERATOR
+
+Inference
+Next-Generation Inference with
+Turing Tensor Cores for
+FP16, INT8, INT4, INT1
+
+Video & Graphics
+2x User Density vs P4
+2x Video Decode Capability vs P4
+
+DL Training
+Entry Level Training SKU with
+Turing Tensor Cores
+
+T4 and Turing performance projections and specifications are preliminary and subject to change without notice. 7 SINvIDIA.
+
+JETSON AGX XAVIER
+
+World’s first Al computer for
+Autonomous Machines
+
+Al Server Performance in 30W ¢ 15W « 10W
+512 Volta CUDA Cores * 2x NVDLA
+
+8 Core CPU
+
+32 DL TOPS
+
+
+JETSON AGX XAVIER
+
+|ceu | 256 Core Pascal 512 Core Volta New!
+
+Vision
+VLA - 7 way VLIW Processor |
+CPU 6 core Denver and A57 CPUs 8 core Carmel CPUs New!
+Memor 8 GB 128 bit LPDDR4 16 GB 256 bit LPDDR4x x2
+y 58.4 GB/s 137 GB/s
+32 GB eMMC 32 GB eMMC
+
+5 2x 4K @30 2x 4K @ 60 / 4x 4K @30
+Video Encode HEVC HEVC x2
+
+5 2x 4K @30 2x 8K @ 30 / 8x 4K @30
+Video Decode 12 bit support 12 bit support x4
+Camera Up to 6 cameras Up to 8 cameras 2
+
+CSI2 D-PHY 1.2 2.5Gbps/lane CSI2 D-PHY 1.2 2.5 Gbps/lane +
+
+50mm x 87mm 100mm x 87mm
+400 pin connector 699 pin connector
+
+Mechanical
+
+
+FRAMEWORK
+
+FRAMEWORK
+
+a
+
+pig iy = — Ee ‘Photo-real
+Visual Search J — Dashboards rendering
+
+A
+
+Visualization
+
+Local Understanding Global Understanding Present Rich Insights
+
+14 nvipia
+
+DEEPSTREAM FOR AI APPLICATION
+PERFORMANCE AND SCALE
+
+Perception
+Platform specific APIs
+Streams: Multi (Tesla), single(Jetson)
+
+Scalability
+
+* Deepstream focus on Perception.
+* Provide efficient way to build VA applications
+
+Perception and Analytics
+
+Multi-GPU applications, Containers
+
+360D cameras, Dynamic stream management
+Perception - edge to cloud IOT services, Stream and batch processing
+Unified APIs across platforms
+Multi-streams, multi-DNNs
+
+Custom graphs
+
+* Support multi-streams, multi-neural-network, memory management,
+* Let user focus on network training, optimization
+
+* DS3.0 for tesla, DS3.0 for jetson, unification for tesla/jetson, python binding.
+
+Solution framework
+
+Optical flow, Remote display
+Multi-GPU dynamic orchestration
+Python bindings
+
+Indexed video storage and retrieval
+
+Workflow templates for full
+solutions
+
+12 SInvivia
+
+UNDERSTAND THE BASICS:
+DEEPSTREAM SDK
+
+PERCEPTION
+
+INSIGHTS
+
+PIXELS
+=
+.
+
+TRACK
+COLLECT DECODE PRE-PROCESS INFERENCE ENCODE COMPOSITE VISUALIZE
+
+NVIDIA CONFIDENTIAL. DO NOT DISTRIBUTE. 14 nv.
+
+DEEPSTREAM SDK
+
+User Applications
+
+Plugins (build with open source, 3 party, NV) | Flexible and scalable graphs Development Tools
+
+#3 DNN inference/TensorRT plugins End to end reference applications
+
+Communications plugins
+
+4.
+
+Ea App building/configuration tools
+QA, Video/image capture and processing plugins
+
+Plugin templates and adaptation guides
+
+( a 3" party library plugins
+
+DeepStream S
+
+TensorRT Hntultshnnstete OK ilelso Geta Metadata Description
+
+Linux, CUDA
+
+Jetson, Tesla
+
+NVIDIA CONFIDENTIAL. DO NOT DISTRIBUTE.
+
+15
+
+@INVIDIA.
+
+GSTREAMER
+
+application
+
+as
+Ss — ee eee
+SS (
+
+pipeline
+
+file-source ogg-demuxer vorbis-decoder audio-output
+
+sre_01 i | sink
+
+buffers
+
+1. Base on components
+2. Data flow, control flow
+
+16 nv.
+
+GSTREAMER
+
+Src Plugin src sink Filter Plugin src sink Sink Plugin
+
+Basic building block connected BIN
+
+ARUN through PADs
+
+src Plugin1 Plugin2 sink
+
+Acontainer for a collection of
+
+BINS plugins i ~
+
+SOURCE BIN PROCESS BIN SINK BIN
+
+Top level bin providing a bus and
+PIPELINE managing the synchronization Video ee gore SH Bo
+File
+
+17 NIA
+
+DEEPSTREAM BUILDING BLOCK
+
+A plugin model based pipeline architecture
+
+Graph-based pipeline interface to allow
+high-level component interconnect
+
+Heterogenous processing on GPU and CPU
+
+Hides parallelization and synchronization
+under the hood
+
+Inherently multi-threaded
+
+Input + Output +
+[Metadata] PLUGIN Mewerdteter
+LOW LEVEL LIB Low Level API
+
+GPU Hardware
+
+18 NIA
+
+
+DEEPSTREAM GRAPH ARCHITECTURE
+
+— BSN DECODE/ISP
+
+IMAGE | |
+PROCESSING 1, DNN(s) .... p> STORAGE
+
+ee barre STREAM DETECT & ON SCREEN
+CAPTURE CAMERA DEWARP,
+PROCESS CROP, ... MGMT CLASSIFY TRACKING DISPLAY OUTPUT
+
+19 SInvivia
+
+METADATA STRUCTURE
+
+NvDSObjectParams - Contains a subset of metadata information for an object detected in the frame.
+GIE_Unique_ID - Multiple neural networks get assigned a unique ID.
+Num_rects - Number of objects detected in the frame.
+
+Stream_lId - In case of multi-stream, to identify we need a stream id to associate which stream the
+data belongs to.
+
+NvDsObjectParams
+
+NvOSD_RectParams
+
+NvDsFrameMeta
+
+NvDsObjectParams NvOSD_TextParams
+’ ’ ] NvDsAttrinfo
+gie_unique_id
+tracking_id
+
+num_rects class_id
+
+stream_id
+
+20 NIA
+
+METADATA STRUCTURE
+
+NvOSD_RectParams - Bounding box coordinates
+
+NvOSD_TextParams - Label information required for
+
+NvDsFrameMeta
+
+display (white car, Mercedes, sedan)
+NvDsObjectParams
+
+NvDSAttribinfo - Attributes of objects (type, color, :
+gie_unique_id
+
+make)
+num_rects
+
+Tracking_ID - Unique ID of that object from tracker stream id
+
+Class_ID - Type of object (person, vehicle, two-wheeler,
+
+road sign)
+
+NvDsObjectParams
+
+NvOSD_RectParams
+NvOSD_TextParams
+
+NvDsAttrinfo
+
+tracking_id
+
+class_id
+
+21 NIA
+
+MEMORY MANAGEMENT
+
+Efficient Memory Management
+
+DeepStream App
+
+nvinfer
+(SGIE)
+
+Gstreamer Plugin
+
+Returns CUDA HW Allocates CUDA HW
+
+Buffer for reuse
+
+Buffers (GPU Memory)
+Uses shared CUDA HW
+(GPU Memory) buffers
+
+22 nv.
+
+
+MEMORY MANAGEMENT
+GPU to CPU Copy
+
+DeepStream App
+
+Gst-xvimagesink
+
+CPU Buffer
+sharing
+
+Buffer
+sharing
+
+Allocates CUDA HW
+(GPU memory) Buffers
+
+Uses shared CUDA HW
+(GPU memory) buffers
+qx_J Allocates CPU Buffers
+
+Returns CPU
+Buffer for reuse Uses Shared CPU Buffer
+
+C3) Gstreamer Plugin
+.
+.
+:
+.
+.
+
+Returns CUDA HW
+Buffer for reuse
+
+Efficient Buffer Copy
+
+23 nv.
+
+DECODER PLUGIN
+
+gst-nvvideocodecs
+
+Fcoded gst-nvvideocodecs YUV
+Input H.264, H.265, VP8, VP9, MPEG2/4
+Output NV12
+NVDECODE API Low Level API Parameters Bit rate control, i-frame decoding
+
+Hardware
+
+24
+
+SINvVIDIA
+
+BATCHING
+
+GstNvStreamMux
+
+Input NV12 / RGBA streams
+
+NV12/RGBA Batched Buffer
+Metadata containing information about
+
+Output . . :
+P input frames : original timestamps, frame
+NV12/RGBA
+NV12./ RGBA Batched numbers
+Saiey Batch size (int) - Number of buffers in a
+
+batch
+Batch timeout (int) - Time in
+microseconds to wait to form a batch
+
+Parameters Width, Height (int) - Scaling factor for
+source frames
+Frame padding (int) - Maintain source
+aspect ratio by padding with black bands
+
+NVIDIA CONFIDENTIAL. DO NOT DISTRIBUTE. 25 NIA
+
+BATCHING - GSTNVSTREAMMUX
+
+UPSTREAM
+
+BATCHING
+
+DOWNSTREAM
+
+Buffers Input
+
+Decoder / Camera1 nS | | ||
+
+en) Round robin
+
+NV12/RGBA Batched
+Decoder /Comera2 ed ir scl TE (Ee an ue
+Batch of N
+buffers of size
+Decoder / Camera... [Ruuuesneed || || (W x H)
+NVIDIA CONFIDENTIAL. DO NOT DISTRIBUTE. 26
+
+O{NvipdIA.
+
+NVIDIA-ACCELERATED PLUGINS
+
+Plugin Name Functionality
+
+gst-nvvideocodecs Accelerated video decoders
+
+Stream aggregator - muxer and batching
+
+TensorRT based inference for detection & classification
+Reference KLT tracker implementation
+
+On-Screen Display API to draw boxes and text overlay
+Renders frames from multi-source into 2D grid array
+Accelerated X11 / EGL based renderer plugin
+
+Scaling, format conversion, rotation
+
+Dewarping for 360 Degree camera input
+
+Meta data generation
+
+Gst-nvmsgbroker Messaging to Cloud
+
+27
+
+O{NvipdIA.
+
+BUILD WITH DEEPSTREAM:
+. EXAMPLE APPLICATIONS
+
+Anvow. METROPOLIS
+
+Events
+18-03-20 13:02:16.143 moving
+nen it
+mnt
+13:02:11.143 moving
+3:02:10.643 moving
+10.577 moving | vide
+13:02:10.143 | moving
+-20 13:02:09.643 moving
+09.143 moving
+moving | video
+
+18-03-20 13:02:08.143 moving | video
+
+‘5 “i back at 5x speed __ hess
+
+Endeavor 1059 Free Spots | 198 Occupied Spots TRIMMER ry Flow Rate 2/MinN Exit Flow Rate
+
+METROPOLIS | Ver: beta | User: Metropolis
+
+SMART PARKING SOLUTIONS WITH DEEPSTREAM
+
+* 150 fish eye cameras * identify open parking spots, LPR, tracking
+* identify anomalies like a broken car in the aisle, overtime,
+
+
+PERCEPTION GRAPH
+
+COMM PLUGIN PREPROCESSING PLUGINS DETECTION, CLASSIFICATION & TRACKING PLUGINS COMMUNICATIONS PLUGINS
+
+JS -
+
+360d feeds
+
+Dewarping ROI: Lines ROI: Polygon
+
+Detection network: 2 classes, car(for object tracking) / car-front-back(for spot detection)
+Gst-nvbboxfilter keeps only car-front-back objects
+
+Gst-nvspot determines occupied or empty
+
+Gst-nvmsgconv, gst-nvmsgbroker 30
+
+NVIDIA.
+
+GETTING STARTED
+RESOURCES
+
+MULTI-STREAM REFERENCE APPLICATION
+
+VIDEO PRIMARY OBJECT SECONDARY ON SCREEN
+DECODE UTS sie DETECTOR TRACKER CLASSIFIERS DISPLAY TEE RENDERER
+
+Gst-
+uridecode
+
+Gst-
+uridecode
+
+—
+
+GST-NvInfer
+(Car-Detect)
+
+GST-NvInfer
+
+(Car-Detect)
+
+>
+
+GST-
+NvTracker
+
+—
+
+(Car-Model)
+
+GST-NvInfer
+(Car-Make)
+
++»
+
+GST-OSD
+
+>
+
+GST-Tiler
+
+>
+
+GST-
+
+NvEglglessink
+
+32
+
+O{NvipdIA.
+
+CONFIGURATION FILE
+
+enable-perf-measurement=1 //To enable performance measurement
+perf-measurement-interval-sec=10 //Sampling interval in seconds for performance metrics
+flow-original-resolution=1 //Stream muxer flows original input frames in pipeline
+#gie-kitti-output-dir=/home/ubuntu/kitti_data/ // location of KITTI metadata files
+
+[source0 ]
+
+enable=1 // Enables source0 input
+
+#Type - 1=CameraV4L2 2=URI 3=MultiURI //1) Input source can be USB Camera (V4L2)
+// 2)URI to the encoded stream. Can be a file,HTTP URI or an RTSP live source
+
+// 3) Select URL from multi-source input
+
+type=3 // Type of input source is selected
+uri=file://../../streams/sample_720p.mp4 // Actual path of the encoded source.
+num-sources=1 // Number of input sources.
+
+gpu-id=0 // GPU ID on which the pipeline runs within a single system
+
+DeepStream 2.0 reference config file: source4_720p_resnet_dec_infer_tracker_sgie_tiled_display_int8. txt.
+
+33
+
+SINvVIDIA
+
+PERFORMANCE ANALYSIS
+
+Measure KPls & identify gaps
+
+throughput, supported stream count
+
+Utilization information to understand bottlenecks
+
+nvidia-smi
+
+Latency measurements to further debug and identify rate limiting processes
+
+using gst-logs
+
+Kernel execution profiling for fine grained analysis
+
+using nsight, nvvp
+
+34
+
+@INVIDIA.
+
+ONLINE RESOURCES
+
+Gstreamer Plugin and Application Development Guide
+
+https: //gstreamer.freedesktop.org/documentation/
+
+NVIDIA DeepStream SDK
+
+https: //developer.nvidia.com/deepstream-sdk
+Blog
+
+https: //devblogs.nvidia.com/accelerate-video-analytics-deepstream-2/?ncid=so-int-
+
+dmsk20ntllth-43648
+
+Webinar:
+
+http: //info.nvidia.com/streamline-deep-learning-for-video-analytics-with-deepstream-sdk-reg-
+
+page. html?ncid=so-int-wrdmsk20ntl-43606
+
+35 SInvivia
+
+DEEPSTREAM 3.0
+
+DEEPSTREAM SDK 3.0
+
+Plugins (build with open source, 3 party, NV) Analytics - multi-camera, multi-sensor framework Development Tools
+
+DNN inference/TensorRT plugins DeepStream in containers, Multi-GPU orchestration og End to end reference applications
+
+Communications plugins + "| Tracking & analytics across large scale/ multi-camera App building/configuration tools
+=
+
+resq
+QA, Video/image capture and processing plugins Streaming and Batch Analytics SB End-end orchestration recipes & adaptation guides
+Ca
+
+34 party library plugins Event fabric eS Plugin templates, custom IP integration
+
+DeepStream SDK
+
+Multimedia APIs/ Imaging & Metadata & NV containers Nese ius dian Multi-camera
+Video Codec SDK Dewarping library messaging s tracking lib
+
+Perception infra - Jetson, Tesla server (Edge and cloud) Analytics infra - Edge server, NGC, AWS, Azure
+
+* Capability, scalability, and portability
+* More plugins
+
++ More samples, source code
+
+* Support Docker, TRT5.0
+
+TensorRT
+
+37 Anvioia.
+
+DEEPSTREAM 3.0 NEW FEATURES
+
+New model support: ONNX models, UFF models, and the models exported from Magnet SDK.
+
+Multistream batching example: This example shows how to run DeepStream SDK with
+multiple input streams.
+
+Support for TensorRT Iplugin Creator interface.
+New SSD Example.
+Support for TensorRT |IPluginFactory interface.
+
+New faster RCNN example.
+
+38 SInvivia
+
+DEEPSTREAM 3.0 NEW FEATURES
+
+IOU based tracker algorithm.
+
+Dynamic stream management: Supports on-the-fly addition and deletion of input sources,
+variable frame rate streams, and dynamic resolution changes.
+
+Dewarper plugin: This new plugin dewarps the frames from 360D view cameras.
+
+New plugins gst-nvnvmsgconv (payload generation) and gst-nvmsgbroker (payload
+transmission).
+
+Message broker: Supports Meta generation and transmission to the Cloud.
+
+39 SInvivia
+
+ENABLING 360D CAMERA PROCESSING
+
+NVWARP360
+
+SDK
+
+Panini Pushbroom
+
+40 nv.
+
+SEAMLESS PLUG-AND-PLAY IN DEEPSTREAM
+
+nvdewarper
+
+nvdewarper Input 360D RGBA frame
+
+RGBA buffer for each surface/ projections.
+Projections: Pushbroom, Rotated cylinder,
+Perspective, Equirectangular, Panini,
+Cylindrical
+
+Output
+
+nvdewarp360 API Number of Dewarping surface per frame,
+each surface width and height, projection
+type for each surface, dewarping angles
+like top, bottom, yaw, roll etc.
+
+Parameters
+
+41 NIA
+
+DYNAMIC STREAM MANAGEMENT
+
+@ Add/ Remove camera streams
+
+Application @ Change FPS
+‘oe Change resolutions
+
+
+AN ALL NEW INFERENCE PLUGIN
+
+gst-nvinfer
+
+. NV12/RGBA buffer, Model files - Caffe
+
+gst-nvinfer Input Model and Caffe Prototxt, ONNX, UFF file,
+TRT plugin-factory, plugin-creator
+Original metadata +
+
+Output NvDsMeta attached by this element
+(class, bbox, etc)
+
+Batch size, inference interval, clustering
+nvil_infer p t params, class threshold, Bbox color, width
+arameters & height of Bbox to filterout some boxes
+
+for downstream component etc.
+
+43 NIA
+
+GSTNVINFER
+
+NV12 / RGBA
+Buffers (Unbatched)
+
+OR
+
+Buffers (Batched) +
+NvStreamMeta
+
+PREPROCESSING
+
+Convert and/or Scale to network
+input resolution & color format
+
+Mean subtraction and scaling
+
+Optionally crop primary detected
+
+—
+
+TRT Inference
+
+Bounding box parsing for clustering
+
+Unmodified input buffer
+
+>
+
+Unmodified input
+
+ittached by
+t
+
+metadata,
+objects for secondary inferencing emt
+jis eleme!
+TensorRT IPlugin Custom BBOX
+implementation for parsing function
+custom layers
+Lib containing |Plugin
+implementation
+
+44
+
+OANvipia.
+
+DEEPSTREAM IN
+DOCKER
+
+DEEPSTREAM IN DOCKER
+
+DeepStream Container
+
+CONTAINER 1 CONTAINER N - —
+we DeepStream Applications
+Applications «++++++++eseeeeseeees
+
+CUDA Toolkit «:+e+sseeeeeeeeeeees .
+
+Container OS User Space
+
+| Container OS User Space
+
+Docker Engine seen eee eeeeeeeseesessensssesaeaeel
+
+CUDA Driver
+Host OS cccceccceceeeeeeeeeeeeeeeeeeeeeseeeeeeeeeeetaen
+
+SOrver -seeeeeeceeeeeeeeeeeeeeeeeeeeeeeenes
+
+46 Anvioia.
+
+MULTIPLE PERCEPTION GRAPHS
+
+16 streams
+720p
+30 fps
+
+Traffic Graph
+
+Primary Detector:
+Car, Bike, Road-sign, On Screen
+Person Display
+
+3 Secondary Detectors:
+
+4 streams
+720p
+30 fps Pedestrian Graph
+
+Primary Detector: On Screen
+
+Person, Face, Bag Display
+
+2 Secondary Detectors:
+Face and Bag attributes
+
+DOCKER CONTAINERS
+
+47 nv.
+
+ANALYTICS
+ARCHITECTURE
+
+ARCHITECTURE FOR ANALYTICS
+
+Counting
+
+Occupancy & State
+| MESSAGING/ EVENTS | EVENTS RT Alerts ... SERVING LAYER
+Message Bus
+Extract & Transform BATCH LAYER REST API
+
+Indexing & Search
+Heat maps ...
+
+Lambda architecture:
+
+a a REST API #9L— 4 Gserver x #2 % Al
+Pree | clients @httpit K tite Fa HAR PCH
+
+Raw data
+
+49 nv.
+
+DEEPSTREAM 3.0 END-TO-END APPLICATION
+
+Containers Browser
+
+based viz
+Metadata
+Perception graph [Baume —_—_—, st
+ream ges
+Processing
+-_-
+Containers Batch
+— Processing Search
+f P | h Metadata
+°, © erception grap! =
+
+Prosar oe | | Nosar De | (Saaee | Indexer =O,
+
+Static Orchestration and management
+
+Kafka protocol: A-—/AFOHAMAAAH- TMAH, MBS, SUH, RERER
+noSQL: #AXLKBERR, BAMB BH, AARKA, THEA, KR
+
+50 nv.
+
+Occupancy Map for Multiple Levels i
+Sensor Fusion
+Anomalies
+
+Search Events and Anomalies See ees
+
+Occupancy Stats and Flow Rates Sea ee
+
+COMMAND CENTER UI
+
+Browser-Based Interface
+
+nvidia METROPOLIS
+
+Map sattne $
+
+Alerts
+
+3-06-17 v0scer1474 ROE Sort Sty 2.06
+minutes | entryVideo | exitVideo | P'
+
+= 18-06-19 08:27. vasa | ilma 13
+minutes | entryVideo | exitVideo
+
+‘= 18-06-19 07:58:06.650 | 6143171 | Unexpected
+Stopping 157.78 seconds | entrWideo | exitVideo | P1
+
+‘= 18-06-19 07:57.00.769 | 41431Y1 | Short Stay 1.5
+‘minutes | entryVideo | exitVideo | Pt
+
+= 18-06-19 04:64:44,990 | 61431Y1 | Unexpected
+Stopping 23.94 seconds | entryVideo | exitVideo | P1
+
+Pie PA UUM Ed
+
+Stopping 24.91 seconds | entrWideo | exitVideo | P1
+= 18-06-18 09:10:07.199 | SLTY828 | Unexpected
+
+Stopping 218020.71
+
+seconds | entrWVideo | exitVideo | P1
+
+Stopping 151818.49
+seconds | entr/Video | exitVideo | P1
+
+= 18-06-18 08:33:28 654 | 7-WS542 | Unexpected
+Stopping 40962.66
+seconds | entrWideo | exitVideo | P1
+
+‘= 18-06-18 06:15:06.617 | 6STAI9S | Unexpected
+Stopping 86341.19
+
+aed " i CULE
+
+ENS ra mage BEE vores 46) nese 938 sseseasius
+
+PILUPIUITEDETEUTTIUET
+
+36/hr Entry Fiow
+
+O/hr Exit Fow Rate
+
+51
+
+O{NvipdIA.
+
+REFERENCE ANALYTICS APPLICATION
+
+STREAMING ANALYTICS DATA STORE BATCH ANALYTICS VISUALIZATION
+
+STREAMING MODULES
+
+Multi-camera Tracker
+
+Subscribe to
+topics
+(Metadata
+schema)
+
+BATCH ANALYTICS
+(Spark)
+
+i
+i
+
+i
+
+i
+
+i
+
+!
+
+i
+
+Movement Anomaly ;
+Heatmap Detector q
+i
+
+i
+
+i
+
+i
+
+i
+
+i
+
+i
+
+i
+
+i
+
+i
+
+i
+
+'
+
+Analytics
+Dashboards
+
+Publish output
+
+to another
+topic (Metadata Usap
+schema) Defined 1
+
+RESTAPI /
+SS CO SF WEB
+
+SOCKETS
+
+Metadata STREAMING MODULES
+Perception (Spark)
+Server
+
+Pre-processing
+
+| ,
+(Rules) Elastic Search
+
+Anomaly Detector
+
+DATA STORE &
+INDEXING
+
+Traffic Pattern
+
+* Spark framework AATF AGHA GAKBA TU HB,
+A REKKEREPRBEABOR MH, RAG TH
+
+* Elasticsearch AFR GJavaFw KOBLBH EIS,
+#2 RSL RI) * Apache Lucene Ast s + 52 Envi.
+
+ANALYTICS DASHBOARD
+
+AF Kibana — KF ROK DH Fo T MILES
+
+«” Endeavor-Occupany%* Endeavor-Entry-Exit
+50
+
+Spot Occupied Available Spots Suku
+
+1,204 53 2
+
+Spot Occupied
+18:00 20:00 22:00 00:00 02:00 04:00 06:00
+
+Endeavor-AnomalyCountByType*
+UnexpectedStopping
+
+T T T T
+2018-06-19 17:00 2018-06-19 20:00 2018-06-19 23:00 2018-06-20 02:00 2018-06-20 05:00 2018-06-20 08:00 2018-06-20 11:00
+
+@0-20
+
+@ 20-50
+
+@ 50-100
+
+@ 100-200
+
+@ 200 - 1,000
+108
+
+18-06-19 14:00 2018-06-19 17:00 2018-06-19 23:00 2018-06-20 02:00 2018-06-20 05:00
+
+@timestamp per hour
+
+Endeavor-EntryExitHeatmap*
+
+@timestamp per hour
+
+53 NIA
+
+
+PERCEPTION AND ANALYTICS IN CONTAINERS
+
+SCALING AND PORTABILITY
+
+PERCEPTION SERVER
+
+State Mgmt
+DeepStream
+
+in? Cassandra
+Occupancy State. |
+
+[2]
+[2]
+
+Message Broker ——
+
+&docker
+
+&-docker
+
+ccc |
+
+| Metadata Pasticsearch |
+
+DeepStream
+
+oct 7 Moe ; Jt
+
+Parking Garage
+
+rca, :
+
+poaiinnie Indexer
+_
+
+=
+
+ANALYTICS SERVER
+
+Browser
+Apps
+
+“Analytics —
+Dashboards
+
+Kibana
+
+BHroocker
+
+54 nv.
+
+
+PERCEPTION AND ANALYTICS
+
+Open source code
+
+Perception code: https: //developer.nvidia.com/deepstream-sdk-download
+
+->DeepStream 360-degree smart parking reference application
+
+Analytics code:
+
+https: //github.com/NVIDIA-Al-lIOT/deepstream_360_d_smart_parking_application
+
+Blog:
+
+https: //devblogs.nvidia.com/multi-camera-large-scale-iva-deepstream-sdk/
+
+55
+
+@INVIDIA.
+
+DEEPSTREAM FOR IOT
+
+METADATA TO MESSAGE BROKERS
+
+gst-nvmsgtransform & gst-nvmsgbroker
+
+Input Metadata
+
+Message sent over supported
+
+Output protocol
+
+gst-nvmsgtransform gst-nvmsgbroker
+
+Path to shared library
+implementing message
+generation from metadata
+based on schema
+
+Schema Generator API Protocol Adaptors Protocol, URL, port, topic for
+Parameters message destination
+
+Path to shared library
+implementing adaptor for
+desired protocol
+
+57 NIA
+
+DEEPSTREAM WITH AWS GREENGRASS
+
+EDGE APPLIANCE
+
+AWS CLOUD
+
+DeepStream Greengrass core AWS Services
+Application
+2.6
+DeepStream graph MQTT Broker AWS |OT — DynamoDB
+= ‘
+Oo, (S) Device Shadow
+
+!
+
+AWS Greengrass HHT THE FAMATORARR HEH ED
+
+58 nv.
+
+—
+
+—
+
+DEEPSTREAM WITH AZURE IOT
+
+EDGE APPLIANCE
+
+DeepStream
+Application
+
+DeepStream graph
+
+Azure CLOUD
+
+1OT Hub
+
+Apache Kafka
+
+Azure Services
+
+CNTL ML& DL
+ia Apache Spark —_
+
+Storage Adapters
+
+NpSQL
+
+Search Indexer
+
+Search & Query
+
+59 nv.
+
+METADATA DESCRIPTION SCHEMA
+
+Interoperability, orchestration & integration for intelligent video analytics
+
+Describes observations of “Things” perceived in video using JSON messages and an
+extensible ontology
+
+Things can either be “objects”, “places” or “events” at the highest level
+Also allows description of sensors and analytical engines used
+Time, location as primary attributes
+Supports relationships
+
+HAS-A relationship, IS-A relationship...
+
+To Be Open-Sourced with the Release
+
+60
+
+@INVIDIA.
+
+AN OVERVIEW OF
+TENSORRT 5.0
+
+NVIDIA TensorRT
+
+From Every Framework, Optimized For Each Target Platform
+
+ TensorFlow _ TESLA T4
+
+JETSON XAVIER
+
+@xnet TensorRT
+
+DRIVE PX 2
+
++
+aa
+
+Le, NVIDIA DLA
+Caffe2 theano
+
+TESLA V100
+
+
+TENSORRT OVERVIEW
+High-performance Deep Learning Inference Engine for Production Deployment
+
+MODEL
+REPOSITORY
+Data Tools Training Frameworks
+
+TensorRT
+
+f
+I
+I
+|
+c> *torch
+— — a we
+be Optimized
+= |
+I
+
+theano __ TensorFlow
+
+a. he
+
+> i a?
+
+MANAGE / AUGMENT DEEP NEURAL NETWORK DATA CENTER / AUTOMOTIVE / EMBEDDED
+
+63 Anvioia.
+
+TENSORRT DEPLOYMENT WORKFLOW
+
+Step 1: Optimize trained model
+
+Import Tonsoni Optimizer Serialize (2 Plan {
+Engine 4.) Plan
+Nae
+
+Trained Neural .
+Network TensorRT Optimizer Optimized Plans
+
+Step 2: Deploy optimized plans with runtime
+
+(23 Plan 1 De- serialize TensorRT Runtime Deploy
+Engine Runtime
+GD ape ®
+— — | . E : —)
+
+\—_ ne
+(2) Pig ® rp)
+
+TensorRT Runtime Engine
+
+Optimized Plans
+
+Step 1: Optimize trained model
+
+TENSORRT OPTIMIZATIONS x =
+
+Trai i"
+a ircehin ma TensorRT Optimizer,
+
+Serialize
+Engine
+
+(@
+
+Plan 1
+
+Plan 2
+
+4]
+fl
+Gr]
+
+2] Plan 3
+
+Optimized Plans
+
+Layer & Tensor Fusion
+
+@9) > Optimizations are completely automatic
+
+> Performed with a single function call
+
+Tensor Optimizer Weights & Activation
+« . Precision Calibration
+
+slengine = trt.utils.uff_to_trt_engine(G LOGGER,
+
+Kernel Auto-Tuning
+
+Dynamic Tensor
+Memory
+
+1 uff_model,
+1 parser,
+16 INFERENCE BATCH SIZE,
+1 1<<20,
+ss 18 trt.infer.DataType. FLOAT
+TensorRT Optimizer ag yp ;
+
+65 SInvivia
+
+TensorRT INTEGRATED WITH TensorFlow
+
+Delivers 8x Faster Inference with TensorFlow + TRT
+
+Images/sec @ 7ms Latency
+ResNet-50 on TensorFlow
+
+3,000
+2,500
+2,000
+1,500
+1,000
+500 325
+11*
+0 opu V100
+(FP32) (TensorFlow,
+FP32)
+
+CPU: Skylake Gold 6140, 2.5GHz, Ubuntu 16.04; 18 CPU threads.
+Volta V100 SXM; CUDA (384.111; v9.0.176);
+Batch size: CPU=1, TF_GPU=2, TF-TRT=16 w/ latency=6ms
+
+2,657
+
+TensorRT
+
+Available in TensorFlow 1.7
+https: //github.com/tensorflow
+
+V100 Tensor Cores
+(TensorFlow+
+TensorRT)
+
+TRANSFER LEARNING
+TOOLKIT
+
+TRANSFER LEARNING TOOLKIT
+
+PYTHON APIS
+
+> EVALUATION
+
+PRUNING EXPORT
+PRE-TRAINED MODEL
+
+OUTPUT MODEL
+
+RE-TRAINING
+
+=
+
+DATA
+
+68 ANVIDIA.
+
+TRANSFER LEARNING WORKFLOW
+
+NVIDIA GPU Cloud
+
+INFERENCE
+
+Build
+Engine
+
+DeepStream
+SDK
+
+Pretrained TensorRT
+rea Retrain um
+ode
+i "Y4
+/
+
+1. Download docker container -> 2. Pull Model -> 3. Train with your data -> 4. Prune -> 5. Retrain -> 6 Evaluation -> 7. Export
+
+Training config: Network choice, sgd/adam, batch-size, epochs, learning rate step decay, regularize,
+BatchNorm, dropout, bbox cluster/dbscan
+Data augmentation and Dataloader 6 Gnwwia.
+
+PRUNING
+
+@ Reduce model size and increase throughput
+
+® Incrementally retrain model after pruning to
+recover accuracy
+
+tlt-prune tlt-train
+
+6 inputs, 6 neurons Lelirnioh 2
+outputs),
+
+6 inputs, 5 neurons (including 2
+4 connections
+
+SI nvipia.
+
+PRUNING EXAMPLE
+
+6.5x reduction in model size 2x increase in throughput
+
+Memory size Average Frame Rate/Second
+
+Unpruned Network hs Pruned Network PO
+
+Pruned Network —]
+dapranea Neavork [|
+
+0 10 20 30 40 50
+
+= Pruned Network = Unpruned Network fe) 5 10 15 20 25 30 35
+
+Network - ResNet18 4-class (Car, Person, Bicycle, Roadsign)
+Memory size - 46.2 MB to 6.7 MB
+FPS - 16fps to 30 fps
+
+71
+
+SI nvipia.
+
+SCENE ADAPTATION
+
+Camera location vantage point
+
+Same network adapting to different
+
+; angles and vantage points
+
+Same network adapting to new data
+
+Train with new data from another vantage point, camera location, or added attribute
+72 SInvipia.
+
+ADDING A NEW CLASS
+
+Easy to edit models to add new class
+
+EVALUATION
+
+PRUNING EXPORT |
+be |
+
+RE-TRAINING
+
+Pre-trained 6 class GoogleNet Add Emergency vehicle as —_—_ Train, Prune and Retrain
+classifying sedan, another class simply by new model using new spec
+suv, truck, van, coupe, large vehicles editing the spec file file
+
+Berd
+
+z
+
+New network with 7 classes
+classifying sedan,
+
+suv, truck, van, coupe, large
+vehicles, emergency vehicles
+
+tlt-train classification -e new_spec -r results -m model file -n model name
+
+73 SInvipia.
+
+AVAILABILITY ON NVIDIA GPU CLOUD
+
+Built on top of Tensorflow Docker Container
+
+Cloud Service
+Provi
+
+NVIDIA TITAN and
+NVIDIA Quadro
+
+NVIDIA DGX Systems
+
+
+THE COMPLETE
+WORKFLOW
+
+THE COMPLETE Al SOLUTON WORKFLOW FOR
+SMART CITIES
+
+Layer & Tensor Fusion
+
+Weight & Activation SD Kernel Auto-Tuning
+Precision Calibration .
+‘SCENE ‘00,
+PRUNE ADAPTATION CLASSES _ —
+/ \
+N . Sr
+OUTPUT MODEL
+
+@ So
+
+Compiled &
+Optimized Neural
+
+Trained Neural
+Network
+
+NIN
+=
+Sj Dynamic Tensor Multi-Stream
+para ‘Memory Execution
+
+Train with TRANSFER LEARNING TOOLKIT Optimize with TENSORRT Deploy with DEEPSTREAM
+
+FRAMEWORK
+PERCEPTION -> ANALYTICS
+
+Applications
+
+Analytics for situational awareness
+Global view Anomaly Trajectory Spatio-temporal
+Detection Analysis inetuaGktia Seetrce Analysis Fusion
+Perception for scene understanding
+
+Local view Object Detection Obiect) Object Tracking Actions and
+Classification Behavior
+
+Cameras & Sensors
+
+7 nvipia
+
+iit Ht KR!

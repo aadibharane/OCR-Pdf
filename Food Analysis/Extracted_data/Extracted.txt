@@ -1,0 +1,1708 @@
+Journal of Food Composition and Analysis 42 (2015) 120-133
+
+Contents lists available at ScienceDirect D
+
+nw or FOOL
+COMPOSITION
+“ANALYSIS,
+
+Journal of Food Composition and Analysis
+
+mt
+
+ELSEVIER
+
+journal homepage: www.elsevier.com/locate/jfca
+
+Original Research Article
+
+Nutrient composition of important fish species in Bangladesh
+and potential contribution to recommended nutrient intakes
+
+® CrossMark
+
+Jessica R. Bogard**, Shakuntala H. Thilsted>, Geoffrey C. Marks*, Md. Abdul Wahab‘,
+Mostafa A.R. Hossain, Jette Jakobsen “, James Stangoulis °
+
+*The University of Queensland, School of Public Health, Herston Road, Herston, Queensland 4006, Australia
+>WorldFish, House 22B, Road 7, Block F, Banani, Dhaka 1213, Bangladesh
+
+© Bangladesh Agricultural University (BAU), BAU Main Road, Mymensingh 2202, Bangladesh
+
+“Technical University of Denmark (DTU), National Food Institute, Morkhoj, Denmark
+
+° Flinders University, School of Biological Sciences, GPO Box 2100, Adelaide 5001, South Australia, Australia
+
+ARTICLE INFO ABSTRACT
+
+Article history:
+
+Received 3 June 2014
+
+Received in revised form 8 January 2015
+Accepted 11 March 2015
+
+Available online 7 April 2015
+
+Fish, in Bangladesh where malnutrition remains a significant development challenge, is an irreplaceable
+animal-source food in the diet of millions. However, existing data on the nutrient composition of fish do
+not reflect the large diversity available and have focused on only a few select nutrients. The purpose of
+this study was to fill the gaps in existing data on the nutrient profiles of common fish in Bangladesh by
+analysing the proximate, vitamin, mineral and fatty acid composition of 55 fish, shrimp and prawn
+species from inland capture, aquaculture and marine capture fisheries. When comparing species, the
+composition of nutrients of public health significance was diverse. Iron ranged from 0.34 to 19 mg/100 g,
+zinc from 0.6 to 4.7 mg/100 g, calcium from 8.6 to 1900 mg/100 g, vitamin A from 0 to 2503 jg/100 g
+and vitamin B12 from 0.50 to 14 j1g/100 g. Several species were rich in essential fatty acids, particularly
+
+Keywords:
+
+Small indigenous fish species
+Capture fisheries
+Aquaculture
+
+Bangladesh docosohexaenoic acid in capture fisheries species (86-310 mg/100 g). The potential contribution of each
+Nutrient composition species to recommended nutrient intakes (RNIs) for pregnant and lactating women (PLW) and infants
+1000 days was calculated. Seven species for PLW and six species for infants, all from inland capture, and all typically
+Mineral consumed whole with head and bones, could potentially contribute >25% of RNIs for three or more of
+
+yamine these nutrients, simultaneously, from a standard portion. This illustrates the diversity in nutrient
+‘atty acids
+
+content of fish species and in particular the rich nutrient composition of small indigenous species, which
+
+should guide policy and programmes to improve food and nutrition security in Bangladesh.
+
+© 2015 The Authors. Published by Elsevier Inc. This is an open access article under the CC BY license
+(http://creativecommons.org/licenses/by/4.0/).
+
+Biodiversity
+
+Food analysis
+Food composition
+Food security
+
+1. Introduction food production sector, during a period of decline in capture
+
+fisheries (Belton and Thilsted, 2014).
+
+In Bangladesh, fish is an irreplaceable animal-source food in the
+diet of millions, both in terms of quantity - accounting for
+approximately 60% of animal protein intake at 18.1 kg consumed
+per person per year - and frequency of consumption, far exceeding
+that of any other animal-source food (Belton et al., 2014). The
+country possesses diverse and abundant aquatic resources with
+267 freshwater fish species (Thilsted, 2010), and an annual
+production of 3.1 million tonnes (Belton and Thilsted, 2014).
+Bangladesh is also one of many developing countries to experience
+the proliferation of aquaculture, now the world’s fastest growing
+
+“ Corresponding author. Tel.: +61 403 752 468; fax: +61 7 3365 5442.
+
+E-mail addresses: jessica.bogard@live.com (J.R. Bogard), s.thilsted@cgiar.org
+(S.H. Thilsted), g.marks1@ugq.edu.au (G.C. Marks), wahabma_bau2@yahoo.com
+(M.A. Wahab), marhossain@yahoo.com (Mostafa A.R. Hossain), jeja@food.dtu.dk
+(J. Jakobsen), james.stangoulis@flinders.edu.au (J. Stangoulis).
+
+http://dx.doi.org/10.1016/j.jfca.2015.03.002
+
+While remaining largely successful in increasing supply to meet
+the demand of a growing population, the extent to which the
+growth of aquaculture has been able to mitigate reduction in
+dietary diversity and micronutrient intake from the diverse but
+waning capture fisheries sector, focusing on only a few select large
+species, is questionable (Belton et al., 2014). Despite improvement
+in some food and nutrition security indicators (JPGSPH and HKI,
+2012), malnutrition, largely caused by inadequate micronutrient
+intake, remains widespread with 41% of children under five years
+suffering from stunted growth (NIPORT et al., 2013). The fisheries
+and aquaculture sector has been recognised as a key resource in
+tackling food and nutrition security issues and features promi-
+nently in the national development agenda (Government of the
+Peoples Republic of Bangladesh, 2005a,b, 2006, 2011).
+
+Knowledge of the nutrient composition of important foods is
+an invaluable tool in understanding the links between food
+
+0889-1575/© 2015 The Authors. Published by Elsevier Inc. This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/).
+
+JR. Bogard et al./Journal of Food Composition and Analysis 42 (2015) 120-133 121
+
+production, access and nutrient intakes, and in devising policies
+and programmes such as development of improved production
+technologies (Thilsted and Wahab, 2014a), to ensure that food
+supply optimally fulfils population nutrient requirements. How-
+ever, despite the clear importance of fish in the Bangladeshi diet,
+existing composition data do not reflect the large diversity of
+species available for consumption and have only focused on a few
+select nutrients rather than comprehensive nutrient profiles. The
+recently published Food Composition Table for Bangladesh is a
+useful compilation of existing composition data on important
+foods (including a number of fish and fish products); however, the
+data come from a large number of sources including regional
+databases with varying sampling and analytical methods, some of
+which are now several decades old (INFS, 2013).
+
+The primary objective of this study was to document
+comprehensive nutrient composition profiles of important fish,
+shrimp and prawn species in Bangladesh with a specific focus on
+small indigenous species (SIS). Species and nutrient components
+selected for analyses were chosen to ‘fill the gaps’ in existing data
+(Roos et al., 2002), using rigorous sampling and analytical
+methods, as well as to extend the data to include more species
+diversity. The secondary objective was to estimate the potential
+contribution of fish, shrimp and prawn species to recommended
+nutrient intakes (RNIs) during the first 1000 days of life, which
+means for women throughout pregnancy and lactation, and for
+infants from age 7 to 23 months. Specific nutrients considered are
+iron, zinc, calcium, iodine, vitamin A and vitamin B12, which are of
+known public health concern in Bangladesh (Craviari et al., 2008;
+Fischer et al., 1999; ICDDRB et al., 2013). Data presented in this
+paper are the most comprehensive collection on the nutrient
+composition of important fish, shrimp and prawn species in
+Bangladesh, both in terms of the number of species and the
+nutrient components analysed, to date.
+
+2. Materials and methods
+2.1. Sampling protocol
+
+The sampling method was constrained by the nature of rural
+fish markets in this context, largely dependent on the activities of
+small-scale fishermen whose supply is unpredictable. As a result,
+single pooled samples of 54 fish, shrimp and prawn species
+commonly available during the monsoon season, were collected at
+local markets and fish landing sites in Mymensingh, Sylhet, Khulna
+and Cox’s Bazar districts in Bangladesh as shown in Fig. 1, from
+July-September 2012. Additionally, one small fish species (Ambly-
+pharyngodon mola) was sampled both from the market (assumed to
+be from an inland capture source) and from a homestead pond in
+Dinajpur district (referred to as Molaccytturea)). The number of fish
+collected for each sample was dependent on the average size of
+each fish species but was a total of approximately two kilograms
+for each sample. For small fish species (<500 g per fish), a single
+pooled sample of up to several hundred individual fish (to make a
+total sample of approximately two kilograms) was collected, for
+medium fish (500-750 g per fish), a single pooled sample of four
+individual fish, and for larger fish (>750 g per fish), a single pooled
+sample of two individual fish. Samples were packed in polyeth-
+ylene bags at the collection site and transported in an insulated ice
+box lined with ice chips and away from direct sunlight, to a nearby
+laboratory facility.
+
+2.2. Sample preparation
+
+The identification details of each sample including common
+Bangla name, scientific name, location of sample collection and
+sample preparation details are shown in Table 1. In this paper,
+
+Mouths of the
+Ganges
+
+Bay of Bengal
+
+@ Sampling location
+
+Fig. 1. Fish sampling locations in Bangladesh.
+Adapted from (Center for Intercultural Learning, 2012).
+
+samples are referred to by the common Bangla name and are
+grouped according to the three dominant fish production sectors:
+inland capture, inland aquaculture and marine capture fisheries.
+Samples were cleaned by local fisher-folk to obtain raw, edible
+parts according to traditional practice. Depending on the fish
+species, edible parts may or may not include the head, viscera,
+scales, bones and other parts (Table 1). To avoid contamination of
+samples, non-metal equipment such as plastic cutting boards,
+buckets and strainers, and ceramic cutting knives were used to
+obtain raw edible parts. Fish samples were washed with deionised
+water after cleaning and before being packed in polyethylene bags
+and stored in a deep freezer at —18 °C. Frozen samples were
+transported in an insulated box, lined with dry ice to laboratories in
+New Zealand and Denmark for nutrient composition analysis. The
+temperature of fish samples was measured upon receipt at the
+testing facilities to ensure that the samples had remained frozen
+during transportation. Fish species were homogenised as per raw
+edible parts prior to analysis and subsamples of the homogenate
+were taken, with size appropriate for individual analytical tests
+(10-100 g). For several species, the homogenate included bones,
+and for others, bones were removed prior to homogenisation if
+they are typically discarded as plate waste, as shown in Table 1.
+
+2.3. Analytical methods
+
+The analytical methods for each nutrient component, and
+corresponding limits of quantitation (LOQ) and reproducibility are
+summarised in Table 2.
+
+2.3.1. Analyses completed at AsureQuality Limited Laboratory,
+Auckland, New Zealand
+
+For proximate components (protein, fat, moisture, ash), vitamin
+B12 and folate, standard analytical methods as per the Association
+of Official Analytical Chemists (AOAC) were used, as listed in
+Table 2. Minerals (except iodine and selenium) were analysed
+
+122 J.R. Bogard et al./Journal of Food Composition and Analysis 42 (2015) 120-133
+
+Table 1
+
+Identification details of fish, shrimp and prawn samples and anatomical parts removed prior to analysis.
+
+Common Bangla name Scientific name
+
+Collection district Anatomical parts excluded prior to analysis
+
+Inland capture
+Small indigenous fish species (SIS)
+Baim Mastacembelus armatus
+
+Bele, Bailla Glossogobius giuris
+
+Boro Kholisha Colisa fasciata
+
+Chanda Pseudambassis ranga
+Chapila Gudusia chapra
+
+Chela Chela cachius
+
+Darkina Esomus danricus
+
+Dhela Osteobrama cotio cotio
+Ekthute Hyporhamphus limbatus
+Foli Notopterus notopterus
+Golsha Mystus cavasius
+
+Guchi Mastacembelus pancalus
+Gutum Lepidocephalichthys guntea
+Jat Punti Puntius sophore
+
+Kachki Corica soborna
+
+Kajuli, Bashpata Ailia coila
+
+Kakila Xenontedon cancila
+
+Koi Anabas testudineus
+
+Kuli, Bhut Bailla Eleotris fusca
+
+Magur Clarias batrachus
+
+Meni Nandus nandus
+
+Modhu Pabda Ompok pabda
+
+Mola Amblypharyngodon mola
+Mola (cultured)* Amblypharyngodon mola
+Rani, Bou Botia dario
+
+Shing Heteropneustes fossilis
+Taki Channa punctatus
+
+Tara Baim Macrognathus aculeatus
+Tengra Mystus vittatus
+
+Tit Punti Puntius ticto
+
+Large fish species
+
+Gojar Channa marulius
+
+llish Tenualosa ilisha
+
+Jatka Ilish Tenualosa ilisha (juvenile)
+Shol Channa striatus
+Shrimp/prawn
+
+Harina Chingri Metapenaeus monoceros
+Najari Icha Macrobrachium malcolmsonii
+
+Inland aquaculture
+Indigenous major carps
+
+Catla Catla catla
+Mrigal Cirrhinus mrigala
+Rui Labeo rohita
+
+Introduced fish species
+
+Common Carp Cyprinus carpio
+
+Grass Carp Ctenopharyngodon idella
+Silver Carp Hypophthalmichthys molitrix
+Thai Pangas Pangasianodon hypophthalmus
+
+Majhari Thai Pangas
+Thai Sarpunti
+Tilapia
+
+Majhari Tilapia
+
+Pangasianodon hypophthalmus (juvenile)
+Barbonymus gonionotus
+
+Oreochromis niloticus
+
+Oreochromis niloticus (juvenile)
+
+Marine capture
+
+Foli Chanda Pampus argenteus
+
+Kata Phasa Stolephorus tri
+
+Lal poa Johnius argentatus
+
+Maita Scomberomorus guttatus
+Murbaila Platycephalus indicus
+
+Parse Liza parsia
+
+Tailla Eleutheronema tetradactylum
+Tular Dandi Sillaginopsis panijus
+
+Mymensingh Bones, viscera, fins, skin, dorsal spine, snout
+Mymensingh Viscera, fins, scales
+
+Mymensingh Viscera, fins, scales
+
+Khulna Viscera, fins
+
+Mymensingh Viscera, fins, scales
+
+Mymensingh Viscera, fins, scales
+
+Mymensingh Viscera, scales
+
+Mymensingh Viscera, fins, scales
+
+Khulna Viscera, fins
+
+Mymensingh Bones, viscera, fins, scales, operculum
+Mymensingh Bones, viscera, fins, barbell
+Mymensingh Viscera, fins
+
+Mymensingh Viscera, fins
+
+Sylhet Viscera, fins, scales
+
+Mymensingh No parts removed
+
+Sylhet Bones, viscera, fins, scales
+Mymensingh Bones, viscera, fins, snout
+Mymensingh Bones, viscera, fins, scales, gills
+Khulna Viscera, fins, scales
+
+Mymensingh Bones, viscera, gills, barbell
+Mymensingh Viscera, fins, scales, gills, operculum
+Mymensingh Bones, fins, viscera
+
+Mymensingh Viscera, fins, scales
+
+Dinajpur Viscera, fins, scales
+
+Sylhet Viscera, fins
+
+Mymensingh Bones, viscera, barbell, gills
+Mymensingh Bones, viscera, fins, scales
+Mymensingh Viscera
+
+Mymensingh Viscera, barbel
+
+Mymensingh Viscera, fins, scales
+
+Sylhet Bones, viscera, fins, scales, gills
+Khulna Bones, viscera, fins, scales
+
+Sylhet Bones, viscera, fins, scales
+
+Sylhet Bones, viscera, scales, gills, fins
+Khulna Viscera, shell, legs, tail
+
+Mymensingh Viscera, shell, legs, tail
+
+Mymensingh Bones, viscera, fins, scales, gills
+Mymensingh Bones, viscera, fins, scales, gills
+Mymensingh Bones, viscera, scales, fins, gills, snout, operculum
+Khulna Bones, viscera, fins, scales, gills, operculum
+Mymensingh Bones, viscera, fins, scales, gills, operculum
+Mymensingh Bones, viscera, gills, fins, operculum
+Mymensingh Bones, viscera, gills, fins, operculum
+Sylhet Bones, viscera, fins, barbel
+Mymensingh Bones, viscera, fins, scales, gills, operculum
+Mymensingh Bones, viscera, fins, scales, gills
+Mymensingh Bones, viscera, fins, scales, gills
+Khulna Bones, viscera, fins
+
+Cox’s Bazar Viscera
+
+Cox’s Bazar Viscera, fins, scales
+
+Cox’s Bazar Bones, viscera, fins, scales
+
+Cox’s Bazar Bones, viscera, fins, scales
+
+Khulna Bones, viscera, fins, scales, gills
+
+Cox’s Bazar Bones, viscera, fins, scales
+
+Cox’s Bazar Bones, viscera, fins, scales
+
+* Mola is a SIS typically sourced from inland capture fisheries; however, Mola is now included in homestead pond polyculture with carps (Thilsted and Wahab, 2014c).
+
+using the inductively coupled plasma optical emission spectrom-
+etry (ICP-OES) method (APA et al., 2012). Iodine and selenium were
+analysed using the inductively coupled plasma mass spectrometry
+(ICP-MS) method (APA et al., 2012). Vitamin D and E were analysed
+using high performance liquid chromatography (HPLC) (Brubacher
+et al., 1985). Fatty acid composition was analysed using gas liquid
+chromatography (GLC) (Bannon et al., 1985).
+
+2.3.2. Analyses completed at the National Food Institute, DTU,
+Denmark
+
+Analyses of vitamin A, B12, D, E and folate in 29 species were
+carried out in Denmark where all tests were conducted in
+accordance with standard ISO17025 of the International Organi-
+zation for Standardization, as summarised in Table 2 (ISO, 2005).
+Vitamin A, D and E were analysed using HPLC. Quantification of
+
+JR. Bogard et al./Journal of Food Composition and Analysis 42 (2015) 120-133 123
+
+Table 2
+
+Analytical methods used for nutrient composition analysis of fish, shrimp and prawn samples.
+
+Analyte Units Method reference* LoQ? Reproducibility
+Analyses conducted at AsureQuality, New Zealand
+
+Proximate components
+
+Protein g/100g Block digestion (AOAC 981.10) 0.1 0.2,/Result
+Fat (total) g/100g Acid hydrolysis (AOAC 948.15) 0.1 0.5%
+Moisture g/100g Air drying (AOAC 950.46) 0.1 0.8%
+Ash g/100g Direct method (AOAC 920.153) 0.1 0.8%
+Minerals
+
+Iron mg/kg Acid Digest, ICP OES (APA et al., 2012) 0.62 7%
+Zinc mg/kg Acid digest, ICP OES (APA et al., 2012) 15 7%
+Calcium mg/kg Acid Digest, ICP OES (APA et al., 2012) 28 8%
+lodine pg/kg TMAH Digestion, ICP MS (APA et al., 2012) 0.02 10%
+Selenium mg/kg TMAH Digestion, ICP MS (APA et al., 2012) 0.02 7%
+Phosphorus mg/kg Acid Digest, ICP OES (APA et al., 2012) 3.3 8%
+Magnesium mg/kg Acid digest, ICP OES (APA et al., 2012) 0.74 7%
+Sodium mg/kg Acid Digest, ICP OES (APA et al., 2012) 27 8%
+Potassium mg/kg Acid Digest, ICP OES (APA et al., 2012) 3.3 8%
+Manganese mg/kg Acid digest, ICP OES (APA et al., 2012) 0.05 7%
+Sulphur mg/100g Acid digest, ICP OES (APA et al., 2012) 0.02 7%
+Copper mg/kg Acid digest, ICP OES (APA et al., 2012) 0.1 8%
+Chromium mg/kg Wet Oxidation, ICP MS (APA et al., 2012) 0.05 10%
+Vitamins
+
+Vitamin B12 pg/100g¢ Surface plasmon resonance (AOAC 2011.16) 0.2 12%
+Vitamin D3 IU/100g HPLC (Brubacher et al., 1985) 20 16%
+Vitamin D2 IU/100g HPLC (Brubacher et al., 1985) 20 16%
+Vitamin E (a-tocopherol) IU/100g HPLC (Brubacher et al., 1985) 0.11 10%
+Vitamin E, y, 8 tocopherols) IU/100g HPLC (Brubacher et al., 1985) 0.01 10%
+Folate pg/100g¢ Optical biosensor assay (AOAC 2011.05) 8 12%
+Fatty Acids mg/100g GLC (Bannon et al., 1985) 10 12%
+Analyses conducted at National Food Institute, DTU, Denmark
+
+Vitamins
+
+Vitamin A (all components) pg/100g¢ HPLC (Roos et al., 2007a) 10 19%
+Vitamin B12 pg/100g¢ Microbiological assay (Nord, 1960) 0.03 13%°
+Vitamin D3 p.g/100 g HPLC (CEN, 2009) 0.05 10%
+250HD3 g/100 g HPLC (CEN, 2009) 01 -4
+Vitamin E (a-tocopherol) mg/100g HPLC (CEN, 2000) 0.02 9.9%"
+Folate pg/100g¢ Microbiological assay (CEN, 2003) 0.2 18%
+
+* AOAC, Association of Official Analytical Chemists, http://www.aoac.org;
+
+ICP OES, inductively coupled plasma optical emission spectrometry; TMAH,
+
+Tetramethylammonium hydroxide; ICP MS, inductively coupled plasma mass spectrometry; HPLC, high performance liquid chromatography; GLC, gas liquid
+
+chromatography.
+> LOQ, limit of quantitation.
+© Values are based on analyses of fish samples in this data set.
+« Not applicable as no result returned a detectable quantity.
+
+vitamin A activity included all-trans-retinol, 13-cis-retinol, all-
+trans-3,4-dehydroretinol and 13-cis-3,4-dehydroretinol. Dehy-
+droretinol is expected to demonstrate 40% of the biological
+activity of retinol (Shantz and Brinkman, 1950) and possibly up
+to 110% (Riabroy and Anumihardjo, 2011). For vitamin D, the CEN-
+method was modified to include quantitation of 25-hydroxy
+vitamin D3 (Jakobsen et al., 2007). Vitamin B12 was determined by
+microbiological assay using Lactobacillus delbrueckii as the test
+organism (Nord, 1960), and folate was determined using Lactoba-
+cillus casei as the test organism (CEN, 2003).
+
+2.4, Presentation of results
+
+All proximate components and minerals were analysed in
+duplicate and presented here as the mean, reported to the same
+number of significant figures as per original analytical results. For
+some samples a result of ‘none detected’ is given when a
+quantifiable result was found for one replicate but the
+corresponding duplicate returned a result below the LOQ. All
+minerals (except sulphur) were reported in metric units per kg of
+raw, edible parts but are presented here as metric units per 100 g
+raw, edible parts for ease of use. Energy was calculated using
+Atwater factors from assayed proximate components (Merill and
+Watt, 1973). Due to resource limitations, vitamins and fatty acids
+
+were analysed singly and presented here as per analytical results.
+Vitamin A components are presented as yg/100g of 13-cis-
+retinol, 13-cis-3,4-dehydroretinol, all-trans-retinol, all-trans-3,4-
+dehydroretinol and B-carotene and then total vitamin A in
+retinol activity equivalents (jg RAE/100 g) has been calculated
+according to the following conversion factors: 1 wg all-trans-
+retinol = 1 wg RAE, 1 wg 13-cis-retinol = 0.75 wg RAE (Ames et al.,
+1955), 1 wg all-trans-3,4-dehydroretinol = 0.4 wg RAE, 1 wg 13-
+cis-3,4-dehydroretinol = 0.4 wg RAE (Shantz and Brinkman,
+1950), 1 wg B-carotene = 0.08 wg RAE (Ottin et al., 2006). Species
+analysed for vitamin D and E at AsureQuality were reported in
+International Units per 100 g of raw edible parts (IU/100 g) and
+were converted to International System of Units (SI) units (wg/
+100 g) using the following conversion factors: vitamin D2 (yg/
+100 g)=vitamin D2 (IU/100g) x 0.025, vitamin D3 (pg/
+100 g) = vitamin D3 (IU/100 g) x 0.025 and vitamin E(tocopherol)
+(mg/100g)=vitamin — E¢tocopherot) (IU/100g) x 0.67 (FAO/
+INFOODS, 2012). Fatty acid components are presented here as
+per analytical results and total n-6 polyunsaturated fatty acids
+(PUFA) and n-3 PUFA were calculated from the fatty acid profile.
+All results are presented as per 100g raw, edible parts. The
+composition of nutrients of public health significance, vitamins
+and fatty acids, in relation to RNI’s have been discussed in the
+results section.
+
+124 J.R. Bogard et al./Journal of Food Composition and Analysis 42 (2015) 120-133
+
+. Previously published data on nutrient composition of fish Table 3
+species Energy, protein, fat, moisture and ash content of fish, shrimp and prawn species.*
+Data on the mineral content of 13 species and vitamin A content Nutrient content per 100g raw edible parts
+of 20 species had previously been published using similar sampling Energy Protein Fat Moisture Ash
+methods and therefore these analyses were not repeated but have ig g 3 g ,
+
+been included in the presentation of results here for completeness.
+
+In this pre-existing data, minerals (except selenium) were Inland capture
+
+Small indigenous fish species (SIS)
+
+analysed by atomic absorption spectrometry (AAS), selenium Baim 381 179 17-786 10
+was analysed using inductively coupled plasma atomic emission Bele, Bailla 292 16.6 0.4 80.3 31
+spectrometry (ICP-AES), and vitamin A was analysed using HPLC Boro Kholisha 354 15.2 25 77.0 5.2
+
+Chanda 400 15.5 38 76.2 AT
+
+(Roos, 2001). Due to slight differences in methodology for mineral
+
+a . Chapila 385 15.5 3.8 78.4 34
+analysis in previous data and newly presented data, care should be Chela 349 152 24 79.4 29
+taken in making comparisons across species. Darkina 384 15.5 32 TTA 42
+Dhela 387 147 3.8 78.1 3.7
+2.4.2. Statistical analyses of results Ekthute 360 17.9 170 76.7 41
+Descriptive statistics of the data are presented including the Foli 384 20.5 0.6 76.7 14
+Fsionifi fi Golsha 479 16.8 5.1 76.8 1.0
+range and mean, rounded to the same number o} signi icant gures Guchi 394 17.9 26 717 22
+as original analytical results. Pearson’s correlation coefficients Gutum 431 17.2 3.9 76.7 26
+were calculated using STATA (version 12.1, StataCorp, College Jat Punti 541 15.7 72 73.2 3.5
+Station, TX, USA), to describe the linear dependence of fat, moisture an ashpat ca a De a a
+_ . - ‘ajuli, Bashpata . r . .
+and energy for all 55 species; and ash and various minerals for 41 Kakila 329 1741 12 80.2 18
+species for which all mineral compositions were analysed. Koi 737 15.5 128 70.5 1.0
+Kuli, Bhut Bailla 330 16.9 12 78.9 3.1
+2.5. Calculation of potential contribution to recommended nutrient Magur 326 16.5 13 81.3 11
+intakes Meni, Bheda 338 16.7 17 78.5 3.6
+Modhu Pabda 619 16.2 9.5 73.9 0.9
+; an ; ; Mola 445 173 45 75.6 3.5
+The potential contribution of each species to RNIs of nutrients Mola (cultured) A412 14.7 46 773 40
+of interest during the first 1000 days was calculated first by Rani, Bou 654 14.9 10.6 70.8 3.2
+assigning an average RNI target for each nutrient as shown in Shing pee He te ne i
+. aki . . . .
+Table 5, for pregnant and lactating women (PLW) to account for Tara Baim 387 172 26 794 33
+variations in requirements throughout the three trimesters of Tengra 428 15.1 46 76.6 37
+pregnancy and first 12 months of lactation, and for infants to Tit Punti 385 15.4 3.4 775 3.8
+account for variations in requirements throughout the period Large fish species
+rom age 7 to 23 months (FAO/WHO, 2004); then by calculating Gojar 286 171 03 82.6 1.0
+the contribution from a standard portion of each species (50 g/day llish 1020 16.4 18.3 60.2 14
+‘or PLW and 25 g/day for infants) as a percentage of the average Jatka Ilish 618 19.0 77 718 2.5
+RNI. The nutrients of interest considered here are iron, zinc, Shol 310 18.7 03 81.0 12
+calcium, iodine, vitamin A and vitamin B12. The RNIs for iron and Shrimp/prawn
+zinc further vary according to estimated overall dietary bioavail- Harina Chingri 333 17.6 10 79.5 2.2
+ability which is dependent on a number of factors including the Najari Icha 364 15.7 220 779 33
+presence of animal-flesh foods, phytates and other factors; and Inland aquaculture
+are therefore provided according to four and three dietary Indigenous major carps 267 149 07 841 10
+bioavailability categories, respectively. The typical Bangladeshi Mrigal 363 189 14 789 11
+diet based on polished rice, fish and vegetables is assumed to fit Rui 422 18.2 3.0 7 1.0
+best with criteria used to define the ‘10% bioavailability’ category Introduced fish .
+. ‘ . : steps . introduced fish species
+‘or iron, and ‘moderate bioavailability’ category for zinc (FAO and Common Carp 381 164 29 80.0 10
+WHO, 2004). Grass Carp 341 15.2 11 80.2 11
+Silver Carp 435 17.2 41 778 15
+3. Results and discussion Thai Pangas 925 16.0 17.7 65.5 0.9
+Majhari Thai Pangas 360 18.6 1.4 79.2 14
+3 . we Thai Sharpunti 466 18.4 44 76.2 1.6
+.1. Proximate composition Tilapia 390 19.5 20 776 18
+Majhari Tilapia 412 19.0 2.6 77.5 1.3
+
+The energy, protein, fat, moisture and ash composition of all 55 .
+Marine capture
+
+species are shown in Table 3. The total energy content varied Foli Chanda 320 172 09 82.1 07
+greatly with a range of 267-1020 kJ/100 g which is related to Kata Phasa 357 17.6 21 774 41
+variation in fat content in the different species, as evidenced by a Lal Poa 381 18.1 24 75.2 53
+correlation coefficient of 0.98. The total protein content in fish Maita | 405 20.5 11 76.5 1.0
+species ranged from 11.9 to 20.6 g/100 g and can be assumed to be Murbaila aS we us oe is
+of high dietary quality, being an animal-source protein (WHO, Tailla 425 20.6 22 765 11
+2007). The fat content ranged from 0.3 to 18.3g/100g. Fat Tular Dandi 345 19.3 0.6 78.8 1.6
+generally varies much more widely than other proximate @ all data are newly reported values.
+
+components of fish, and usually reflects differences in the way n=1 pooled sample.
+fat is stored in particular species but may also be affected by
+seasonal/lifecycle variations and the diet/food availability of the
+species at the time of sampling (Ababouch, 2005). For example,
+bottom dwelling species such as the indigenous major carps are
+
+JR. Bogard et al./Journal of Food Composition and Analysis 42 (2015) 120-133 125
+
+typically lean fish, storing fat in the liver (Ababouch, 2005),
+whereas, migratory fish such as Ilish have a higher content of dark
+muscle which tends to be rich in fat (Alam et al., 2012). The
+moisture content of fish species ranged from 60.2 to 85.4 g/100g
+and, as expected was negatively correlated with fat and energy
+content (correlation coefficient of —0.91 and —0.95 respectively).
+Ash content ranged from 0.7 to 5.3 g/100g and is positively
+correlated with mineral content, particularly calcium, phosphorus,
+magnesium and zinc, with correlation coefficients of 0.98, 0.95,
+0.85, and 0.74 respectively. The large variation in ash content is
+likely related to inclusion of bones as edible parts in some species,
+which would lead to higher ash content in these.
+
+3.2. Mineral composition
+
+The iron, zinc, calcium, iodine, selenium, phosphorus, magne-
+sium, sodium, potassium, manganese, sulphur and copper
+composition for all species are shown in Table 4.
+
+3.2.1. Iron
+
+Iron content varied considerably with a range from 0.34 to
+19 mg/100 g and a mean value of 2.6 mg/100 g. Three species of
+fish and one species of prawn were identified that would meet
+>25% of the RNI for PLW and infants: Chapila, Darkina, Mola and
+Najari Icha (Table 5). These results show a greater range in iron
+content compared to a values reported in the global FAO/INFOODS
+database on fish and shellfish (excluding molluscs) (FAO/INFOODS,
+2013). Of interest is that iron content of cultured Mola (19 mg/
+100 g) is much higher than previously reported values for capture
+Mola (5.7 mg/100 g). This may be partly attributable to sampling
+variability, methodological differences in analysis of iron content,
+or may reflect real differences in the accumulation of iron in this
+species based on differing environmental conditions. The true
+nature and magnitude of these differences should be further
+investigated. Overall, the data presented here indicate that several
+species (all from inland capture fisheries) may contribute
+significantly to dietary iron intakes in Bangladesh which is of
+high bioavailability as an animal-source food (FAO and WHO,
+2004). This may have important policy implications given the
+public health significance of iron deficiency in Bangladesh, with
+prevalence recently estimated at 10.7% in preschool aged children
+and 7.1% in adult women (ICDDRB et al., 2013), and the well
+documented negative effects of deficiency on physical and
+cognitive development, pregnancy outcomes, morbidity and
+mortality.
+
+3.2.2. Zinc
+
+Zinc concentration varied considerably from 0.6 to 4.7 mg/
+100 g with a mean content of 1.9 mg/100 g. These results are
+within the range of fish and seafood reported elsewhere (FAO/
+INFOODS, 2013). Four species were identified that would meet
+>25% of the RNI for PLW; Chela, Darkina, cultured Mola and Rani,
+and two species: Chela and cultured Mola, which would meet
+>25% of the RNI for infants, from a standard portion (Table 5). A
+further seven species of fish and one species of prawn (all of
+which are capture species) would meet 20-25% of RNIs for PLW
+(Dhela, Ekthute, Kachki, Kata Phasa, Mola, Najari Icha, Tengra,
+and Tit Punti) and a further six species of fish and one species of
+prawn would meet 20-25% of RNIs for infants (Darkina, Dhela,
+Ekthute, Mola, Najari Icha, Rani and Tit Punti). In light of recent
+estimates of a national prevalence of zinc deficiency in 57.3% of
+women and 44.6% of pre-school aged children in Bangladesh
+(ICDDRB et al., 2013), several SIS and prawn species could
+contribute significantly to dietary zinc intake, also taking into
+consideration that zinc in animal-source foods is highly
+bioavailable (FAO and WHO, 2004).
+
+3.2.3. Calcium
+
+Calcium content ranged considerably from 8.6 to 1900 mg/
+100 g with a mean content of 600 mg/100 g. These results are
+within the range of fish and seafood reported elsewhere (FAO/
+INFOODS, 2013). As would be expected, calcium content was much
+higher in species in which bones are commonly consumed and
+included in the edible parts. Fourteen species were identified that
+would meet >50% of the RNI for PLW, and 18 species that would
+meet >50% of the RNI for infants (Table 5). Calcium deficiency
+nationally has not been evaluated, however, it has been implicated
+in the development of rickets, estimated to affect 550,000 children
+in 2008 (Craviari et al., 2008; Fischer et al., 1999; ICDDRB, 2009),
+and in a study in two rural subdistricts of Bangladesh, it was
+estimated no women or young children had diets adequate in
+calcium, attributable to low food intake and low dietary diversity
+(Arsenault et al., 2013). In developed countries, dairy products tend
+to be the primary source of dietary calcium; however, this is not
+the case in Bangladesh where frequency of dairy consumption is
+very low (Belton et al., 2014; JPGSPH and HKI, 2012). The data
+presented here further support the conclusion that in Bangladesh,
+SIS eaten whole, with bones are a significant source of highly
+bioavailable dietary calcium (Larsen et al., 2000; Roos et al.,
+2007a,b).
+
+3.2.4. Iodine
+
+Iodine was below detectable limits in eight of the 55 species,
+and ranged up to 120 jg/100 g, with a mean of 22 jrg/100 g. Only
+one species of prawn (Najari Icha) would contribute to >25% of the
+RNI, and one species of fish (Darkina) would contribute >20% of the
+RNI, for PLW and infants (Table 5). The iodine content of foods
+tends to be largely dependent on environmental conditions.
+Marine fish and seafood tend to be rich dietary sources with amean
+composition of 83 1g/100g in marine fish reported elsewhere
+(FAO/WHO, 2004); however, this was not particularly evident in
+the marine species analysed here, with a range of only 6.9-41 jg/
+100 g. This is the first study in which the iodine content of fish,
+shrimp and prawn in Bangladesh was analysed. The composition of
+iodine in inland capture species reported here was within the
+range of fish and seafood reported elsewhere (FAO/INFOODS,
+2013), but most species are unlikely to be a significant source of
+dietary iodine.
+
+3.2.5. Selenium, phosphorus, magnesium, sodium, potassium,
+manganese, sulphur, copper and chromium
+
+The contents of these minerals were analysed for data
+completeness but they are not associated with significant public
+health concerns currently, and therefore, their nutritional signifi-
+cance is not discussed here. Selenium content of foods varies
+significantly according to surrounding environmental conditions.
+The selenium content in species analysed here showed a wide
+range from 5 to 110 yg/100g, consistent with data reported
+elsewhere (FAO/INFOODS, 2013). Phosphorus content ranged from
+110 to 1000 mg/100 g, with higher composition in fish species with
+bones included in edible parts, also consistent with values reported
+elsewhere (FAO/INFOODS, 2013). The ranges of magnesium (21-
+57 mg/100 g), sodium (26-110 mg/100g) and potassium (58-
+350 mg/100 g) content were broadly consistent with ranges for
+other fish and seafood reported elsewhere (FAO/INFOODS, 2013).
+Manganese content ranged from 0.010 to 2.8 mg/100g and is
+higher than results reported elsewhere (FAO/INFOODS, 2013),
+which may be related to water pollution (Tornqvist et al., 2011).
+Sulphur content ranged from 160 to 300 mg/100 g and is higher
+than results reported in the FAO/INFOODS global database,
+although consistent with results reported elsewhere in the
+literature (Vlieg et al., 1991). Copper content ranged from 0 to
+1.2 mg/100 g with highest values found in shrimp and prawn, far
+
+
+126
+
+Table 4
+
+J.R. Bogard et al./Journal of Food Composition and Analysis 42 (2015) 120-133
+
+Mineral composition of fish, shrimp and prawn species.
+
+Nutrient content per 100g raw edible parts
+
+Iron Zinc Calcium Iodine Selenium Phosphorus Magnesium Sodium Potassium Manganese Sulphur Copper
+
+mg mg mg Bs BS mg mg mg mg mg mg mg
+Inland capture
+Small indigenous fish species (SIS)
+Baim 1.9° 1.1° 449° 13 12° - 35° 47° 322° - - -
+Bele, Bailla 2.3 2.1 790 25 31 520 38 56 210 2.3 200 0.030
+Boro Kholisha 41 2.3 1700 20 26 910 44 61 210 2.0 190 0.046
+Chanda 21° 2.6° 1153 24 22° - 45° 61° 206° - - -
+Chapila 7.6 21° 1063 13 13.4* - 41° 57° 281° - - -
+Chela 0.84 47 1000 19 32 590 39 28 85 0.60 170 0.052
+Darkina 12° 4.0° 891° 81 12° - 38° 110° 200° - - -
+Dhela 1.8 3.7 1200 9.5 29 660 39 37 110 0.60 170 0.046
+Ekthute 1.5 3.6 1300 11 28 770 51 52 140 0.73 240 0.030
+Foli 1.7 1.6 230 nd 22 270 34 53 280 0.078 260 0.058
+Golsha 1.8 1.3 120 13 41 180 26 33 210 0.22 220 0.039
+Guchi 27 1.3° 491° 19 45° - 34° 52° 294° - - -
+Gutum 3.3 2.5 950 16 36 650 57 45 240 0.46 190 0.054
+Jat Punti 2.2° 2.9° 1042° 20 9.5° - 39° 53° 203° - - -
+Kachki 2.8° 3.1% 476° 6.0 75° - 26° 38° 134* - - -
+Kajuli, Bashpata 0.82 1.2 110 71 27 140 22 26 130 0.17 200 0.059
+Kakila 0.65 1.9 610 37 29 450 35 49 190 0.47 240 0.046
+Koi 0.87 0.60 85 nd 19 160 21 31 260 0.052 190 0.052
+Kuli, Bhut Bailla 0.79 2.0 980 31 49 580 39 55 190 0.29 210 0.030
+Magur 1.2 0.74 59 22 22 210 26 61 350 0.021 180 0.050
+Meni, Bheda 084 1.6 1300 13 29 810 44 68 250 14 210 0.029
+Modhu Pabda 0.46 0.90 91 7.0 27 150 23 47 230 0.073 190 0.042
+Mola 5.77 3.2° 853° 17 5° - 35° 39° 152° - - -
+Mola (cultured) 19 42 1400 33 19 700 49 31 58 1.9 160 0.047
+Rani, Bou 2.5 4.0 1300 25 31 820 45 48 160 1.5 170 0.094
+Shing 2.2 11 60 nd 31 220 37 54 300 0.038 230 0.057
+Taki 1.8° 1.5° 766° 18 15° - 35° 47° 260° - - -
+Tara Baim 2.5° 1.2° 457° 13 15° - 34° 46° 290° - - -
+Tengra 4.0° 3.1% 1093° 28 24° - 36° 57° 203° - - -
+Tit Punti 34° 3.8° 1480° 19 10° - 47° 61° 187° - - -
+Large fish species
+Gojar 0.43 0.60 9.3 14 37 150 23 30 300 0.018 230 0.015
+llish 1.9 1.2 220 37 40 300 27 44 280 0.25 210 0.12
+Jatka Ilish 2.5 1.8 500 34 41 430 32 58 280 0.40 250 0.12
+Shol 0.41 0.73 96 nd 42 210 27 42 350 0.10 260 0.017
+Shrimp/prawn
+Harina Chingri 2.7 1.3 550 26 42 290 45 85 210 0.57 190 0.49
+Najari Icha 13 3.3 1200 120 34 320 52 75 200 2.8 190 1.2
+Inland aquaculture
+Indigenous major carps
+Catla 0.83 11 210 18 27 260 28 74 310 0.070 170 0.029
+Mrigal 2.5° 1.5° 960° 15 19° - 39° 71° 266° - - -
+Rui 0.98 1.0 51 20 29 210 28 61 330 0.051 200 0.038
+Introduced fish species
+Common Carp 11 2.2 37 13 22 180 26 67 300 0.020 190 0.033
+Grass Carp 046 0.91 54 nd 31 190 27 73 300 0.018 170 0.034
+Silver Carp 44° 1.4° 903° nd 12° - 34° 96° 225° - - -
+Thai Pangas 0.69 0.65 8.6 nd 19 150 21 47 250 0.010 220 0.023
+Majhari Thai Pangas 2.7 11 59 17 11 160 21 81 260 0.092 170 0.086
+Thai Sharpunti 1.6 1.8 270 38 22 280 29 72 240 0.073 250 0.036
+Tilapia 11 1.2 95 11 26 190 26 81 280 0.052 240 0.031
+Majhari Tilapia 1.6 14 120 nd 52 220 26 52 320 0.13 270 0.041
+Marine capture
+Foli Chanda 0.34 0.66 31 9.4 78 110 21 55 160 0.024 190 nd
+Kata Phasa 1.6 3.1 1500 10 56 840 55 92 130 0.38 220 0.023
+Lal Poa 1.7 2.1 1900 41 110 1000 54 110 150 0.60 230 0.042
+Maita 0.49 0.70 34 14 57 200 31 49 290 0.051 250 0.040
+Murbaila 1.7 0.79 150 19 51 230 29 90 330 0.012 250 0.033
+Parse 1.3 0.84 66 69 20 160 23 53 270 0.036 220 0.032
+Tailla 0.60 0.90 37 26 46 200 30 74 330 0.010 300 0.051
+Tular Dandi 21 0.89 230 20 52 250 30 100 240 0.14 260 0.036
+
+* Data previously published by Roos (2001).
+
+-, no data available.
+
+nd, not detected. Limit of detection for iodine: 0.01 j.g/kg (equivalent to 0.001 g/100g).
+
+n=1 pooled sample.
+
+Table 5
+
+Potential contribution of fish, shrimp and prawn species in a standard portion®, to average daily RNI®< (%) for PLW4 and infants (7-23 months).
+
+JR. Bogard et al./Journal of Food Composition and Analysis 42 (2015) 120-133
+
+oe . . Vitamin A (ug Vitamin B12
+Tron (mg) Zinc (mg) Calcium (mg) Todine (ug) RAE)’ (ug)
+
+PLW__ Infant =PLW Infant PLW Infant PLW Infant PLW Infant = PLW Infant
+Average daily RNI 15 7 19 41 1040 467 200 90 829 400 2.7 0.8
+Inland capture
+‘Small indigenous fish species (SIS)
+Baim 6 7 7 7 22 24 3 4 2 2 32 54
+Bele, Bailla 8 8 13 13 38 42 6 7 1 1 39 66
+Boro Kholisha 14 1S Is 14 82 91 5 6 3 3 103 173
+Chanda 7 8 16 16 55 62 6 7 20 21 119 200
+Chapila’ 25 27 13 13 51 57 3 4 4 5 129 218
+Chela‘ 3 3 30 29 48 54 5 5 8 8 104 176
+Darkina’ 40 43 25 24 43 48 20 22 40 41 231 391
+Dhela* 6 6 23 23 58 64 2 3 55 57 87 147
+Ekthute 5 5 22 22 63 70 3 3 6 6 56 94
+Foli 6 6 10 10 11 12 0 0 - - 37 63
+Golsha 6 6 8 8 6 6 3 4 - - - -
+Guchi 9 10 8 8 24 26 5 5 5) 5 46 77
+Gutum 1 12 16 15 46 51 4 4 5 5 162 273
+Jat Punti 7 8 18 18 50 56 5 5 3 3 74 125
+Kachki 9 10 20 19 23 25 2 2 5) 5 66 lll
+Kajuli, Bashpata 3 3 8 7 5 6 2 2 1 1 76 128
+Kakila 2 2 12 ll 29 33 9 10 6 6 54 90
+Koi 3 3 4 4 4 5 0 0 18 18 44 74
+Kuli, Bhut Bailla 3 3 13 12 47 52 8 8 2 2 26 44
+Magur 4 4 s 4 3 3 By 6 1 2 89 151
+Meni, Bheda 3 3 10 10 63 70 3 3 4 4 17 28
+Modhu Pabda 2 2 6 5 4 5 2 2 - - - -
+Mola’ 19 20 20 20 41 46 4 8 151 156 148 249
+Mola (cultured) 63 68 26 25 67 75 8 9 134 139 109 184
+Rani, Bou‘ 8 9 25 24 63 70 6 7 1 2 119 200
+Shing 7 8 7 7 3 3 0 0 2 2 236 398
+Taki 6 6 9 9 37 41 4 5 8 9 29 48
+Tara Baim 8 9 8 7 22 24 3 3 5 5 96 162
+Tengra 13 14 20 19 53 59 7 8 1 1 65 109
+Tit Punti 11 12 24 23 71 79 5 5 1 1 125 210
+Large fish species
+Gojar 1 2 4 4 0 0 3 4 - - 10 17
+Tlish 6 7 7 7 11 12 9 10 1 1 43 72
+Jatka Tlish 8 9 11 11 24 27 8 9 1 1 37 63
+Shol 1 1 5 4 5 5 0 0 - - 22 38
+Shrimplprawn
+Harina Chingri 9 9 8 8 26 29 6 7 - - 26 44
+Najari Icha’ 42 45 21 20 58 64 30 33 0 0 0 0
+Inland aquaculture
+Indigenous major carps
+Catla 3 3 7 7 10 11 4 5 1 1 24 41
+Mrigal 8 9 9 9 46 51 4 4 1 1 103 174
+Rui 3 4 6 6 2 3 5 6 1 1 93 158
+Introduced fish species
+Common Carp 4 4 14 13 2 2 3 3 - - -
+Gi Carp 2 2 6 6 3 3 0 0 - - - -
+Silver Carp 15 16 9 9 43 48 0 0 - - 10 17
+Thai Pangas 2 2 4 4 0 0 0 0 2 2 28 47
+Majhari Thai Pangas 9 9 7 6 3 3 4 5 1 1 259 438
+Thai Sharpunti 5 6 11 11 13 14 10 11 1 1 41 69
+Tilapia 4 4 7 7 5 5 3 3 1 1 13 22
+Majhari Tilapia 5 6 9 9 6 6 0 0 1 1 46 78
+Marine capture
+Foli Chanda 1 1 4 4 1 2 2 3 - - 28 47
+Kata Phasa 5 6 20 19 72 80 3 3 - - 24 41
+Lal Poa 6 6 13 13 91 102 10 11 - - 37 63
+Maita 2 2 4 4 2 2 4 4 - - 30 50
+Murbaila 6 6 5) 5 7 8 5 5 - - 9 16
+Parse 4 5 5 5 3 4 2 2 - - 0 0
+Tailla 2 2 6 5 2 2 7 7 - - 16 27
+Tular Dandi 7 8 6 5 ll 12 5 5 1 1 31 53
+
+* Standard portion is assumed to be 50g/day for PLW and 25 g/day for infants.
+
+> RNI, recommended nutrient intake.
+
+© See section 2.5 for explanation of calculation of average daily RNI.
+
+4 PLW, pregnant and lactating women.
+© wg RAE, retinol activity equivalent.
+
+-, nutrient composition not analysed, therefore unknown contribution to RNI.
+‘Shaded species are those that could potentially contribute to >25% of daily RNIs for PLW and/or infants for 3 or more nutrients of public health significance, if provided ina
+
+50g or 25g serve, respectively.
+
+127
+
+128 J.R. Bogard et al./Journal of Food Composition and Analysis 42 (2015) 120-133
+
+exceeding that in fish species, with 0.49 and 1.2 mg/100 g found in
+Harina Chingri and Najari Icha, respectively; although largely
+consistent with results reported for fish and seafood elsewhere
+(FAO/INFOODS, 2013). Chromium was undetectable in almost all
+species, with the exception of cultured Mola and Najari Icha which
+had very low concentrations of 0.027 and 0.022 mg/100g,
+respectively, also consistent with data reported elsewhere (FAO/
+INFOODS, 2013).
+
+3.3. Vitamin composition
+
+The vitamin A, B12, D, E and folate composition of fish and
+shrimp species is shown in Table 6.
+
+3.3.1. Vitamin A
+
+In addition to vitamin A content of 20 species originally
+presented by Roos (2001), data on a further 28 species (and
+cultured Mola) are presented in Table 6. Total vitamin A was
+undetected in 11 species and ranged up to 2503 wg RAE/100 g. As
+expected, cultured Mola fish had significant concentrations of
+retinol and dehydroretinol as had been identified previously in
+capture Mola (Roos, 2001). Three species (all SIS): Mola, Dhela and
+Darkina were identified that could potentially contribute >25% of
+RNI for PLW and infants in a standard portion. The data presented
+here support previous studies in Bangladesh which have identified
+that some SIS such as Mola have potential to play a significant role
+in food-based strategies to address vitamin A deficiency (Roos
+et al., 2007a).
+
+3.3.2. Vitamin B12
+
+The vitamin B12 content in fish species ranged from 0.50 to
+14 wg/100 g (n = 49). The highest concentration, 14 j1g/100 g, was
+found in Majhari Thai Pangas (juvenile Thai Pangas), however, this
+was not maintained in the adult Thai Pangas with a concentration
+of only 1.5 j1g/100 g. Very limited data on vitamin B12 in fish and
+seafood are available for comparison in the literature. In the
+Australian food composition database, vitamin B12 content of fish
+and seafood ranges from 0.2 to 15.2 g/100 g which is consistent
+with results reported here (FSANZ, 2010). For PLW and infants, 13
+and 21 species respectively, were identified that would potentially
+contribute >100% of the daily RNI in a standard portion. Care
+should be taken however, when comparing results of vitamin B12
+in species analysed by different laboratories due to differences in
+analytical methods. This is the first analysis of vitamin B12
+composition of fish species in Bangladesh, and is of particular
+public health significance given the recent estimate of a national
+prevalence of vitamin B12 deficiency in 22% of adult women and
+the clear negative implications of deficiency on cognitive
+development and function (de Benoist, 2008). As dietary sources
+of vitamin B12 are exclusively animal-source foods, of which, in
+Bangladesh, fish is the most significant, increased consumption of
+fish is likely to be an appropriate food-based strategy to prevent
+and fight vitamin B12 deficiency.
+
+3.3.3. Vitamin D
+
+Vitamin D3 was undetected in five species and ranged up to
+34 wg/100 g (n= 49). Very limited data on vitamin D in fish and
+seafood are available for comparison in the literature. The range
+reported here is greater than the range of Vitamin D3 in Australian
+fish and seafood at 0-20 jzg/100 g (FSANZ, 2010), and similar to the
+range of vitamin D3 reported for selected fish and seafood in the
+United States at 0-33 jzg/100 g (Byrdwell et al., 2013). Considering
+that the RNI of total vitamin D is 5 g/day for PLW and infants, it is
+likely that several species could contribute significantly to dietary
+vitamin D intakes. Although the same analytical methods were
+used, comparisons between species of low vitamin D3 content
+
+(<0.1 j2g/100 g) analysed in different laboratories should be made
+with caution due to differences in the LOQ in analysis by the two
+laboratories. For example, 14 species were identified with
+concentrations of vitamin D3 by analysis at DTU which would
+not have returned detectable concentrations by analysis at
+AsureQuality (LOQ of 0.05 jg/100 g at DTU compared to 0.5 pg/
+100 g at AsureQuality). Of the species analysed for vitamin D2
+(n=20) only five species were found to have detectable
+concentrations ranging from 0.39 to 2.9 g/100 g. Vitamin D2 is
+however, generally only considered to be found in plant-source
+foods, specifically yeasts and fungi. There is evidence, however,
+that it is found in microalgae and zooplankton, and if this forms
+part of the diet of fish, may account for its presence (Rao and
+Raghuramulu, 1996). No species were found to have detectable
+concentrations of 25-hydroxyvitamin D3 (n = 29). This is the first
+time that vitamin D content in fish in Bangladesh has been
+evaluated. The data presented here indicate that some species may
+contribute significantly to dietary vitamin D intakes in Bangladesh
+and it is recommended that further analysis of both vitamin D2 and
+D3, using standard analytical methods be conducted.
+
+3.3.4. Vitamin E
+
+Vitamin E in the form of a-tocopherol, 5-tocopherol and y-
+tocopherol was analysed in 20 species at AsureQuality. The form of
+vitamin E with highest biological activity, a-tocopherol, was
+analysed in an additional 25 species at DTU (Table 6). Across all 45
+species, «-tocopherol was undetected in four species and ranged
+up to 1.9 mg/100 g. Very limited data on a-tocopherol in fish and
+seafood are available for comparison in the literature. In the
+Australian food composition database, a-tocopherol content of fish
+and seafood ranges from 0.1 to 4.2 wg/100g which is broadly
+consistent with results reported here (FSANZ, 2010). It is worth
+pointing out, however, that although the same method of analysis
+was used by the two laboratories, differences in the LOQ mean that
+samples tested at AsureQuality were less likely to return detectable
+concentrations of w-tocopherol compared to those tested at DTU
+(LOQ of 0.07 and 0.02 mg/100g at AsureQuality and DTU,
+respectively). No species analysed for other vitamin E components
+were found to have detectable concentrations of 5-tocopherol and
+only two species were found to have detectable concentrations of
+yy-tocopherol which were Tara Baim and Shing with 0.01 and
+0.04 IU/100 g, respectively (0.007 and 0.03 mg/100 g, respective-
+ly). This is the first time the vitamin E content of fish species in
+Bangladesh has been analysed. Considering that the daily RNI for
+infants ranges from 2.7 to 5.0 mg a-tocopherol equivalents/day,
+(no recommendation for PLW), the data presented here indicate
+that some fish are a potentially important source of vitamin E,
+particularly in the form of a-tocopherol and it is therefore
+recommended that further analysis, using standard methods be
+conducted.
+
+3.3.5. Folate
+
+Folate content was analysed in 49 species and is shown in
+Table 6. Folate content was below detectable limits in 17 species
+and ranged up to 18 wg/100g, consistent with results reported
+elsewhere (FSANZ, 2010). Comparisons between species of low
+folate content (<8 j1g/100g) analysed in different laboratories
+should be made with caution due to differences in analytical
+methods and LOQs (LOQ of 8 and 0.2 jrg/100 g at AsureQuality and
+DTU, respectively). For example, 20 species were identified by
+analysis at DTU with concentrations of folate that would not have
+returned detectable concentrations had they been analysed at
+AsureQuality. This is the first time folate has been analysed in fish
+species in Bangladesh. Considering that the RNI for PLW ranges
+from 500 to 600 yg dietary folate equivalents (DFE)/day and for
+infants, 80-150 wg DFE/day, the results indicate that all species
+
+J.R. Bogard et al./Journal of Food Composition and Analysis 42 (2015) 120-133 129
+Table 6
+Vitamin A, B12, D, E and folate composition in fish and shrimp species.
+
+Nutrient content per 100g raw edible parts
+
+Vitamin Vitamin Vitamin Vitamin Folate Vitamin A
+
+B12 D3 D2 E (a-tocopherol)
+
+B- 13-cis- 13-cis- All-trans- — All-trans- Total
+carotene retinol dehydroretinol retinol dehydroretinol Vitamin
+A
+
+Bg Bg Bg mg Bg ng Bg Bg Bg Bg jg RAE®
+Inland capture
+Small indigenous fish species (SIS)
+Baim 1.72 1.30 0.76 nd nd 5° 1 5° 1 51° 27
+Bele, Bailla? 21 1.6 - 0.17 6.7 - nd nd 18 nd 18
+Boro Kholisha 5.55 3.13 21 0.12 nd 11° 5° 5° 34° 14° 46
+Chanda 6.42 11.9 nd 0.18 nd 43° 14° 51° 128° 433° 336
+Chapila 6.99 4.92 nd nd nd nd? 1° 21° 9° 136° 73
+Chela 5.64 4.00 nd 0.11 nd 21° 25° 9° 90° 45° 132
+Darkina 12.5 6.31 nd 0.84 nd 100° 63° 48° 433° 381° 660
+Dhela® 47 0.14 - 0.24 6.6 - 15 68 28 2130 918
+Ekthute” 3.0 24 - 0.65 11 - 18 nd 84 nd 98
+Foli” 2.0 0.70 - 0.64 18 - nd nd nd nd nd
+Guchi 2.47 2.29 nd 0.11 nd 110° 1 14° 9° 133° 78
+Gutum 8.75 nd nd 0.19 nd 25° 1 9° 17° 131° 76
+Jat Punti 4.01 1.29 nd 0.15 nd 13° 4 9° 27° 49° 54
+Kachki 3.55 1.5 nd 0.09 nd 15° 2 30° 14° 122° 78
+Kajuli, Bashpata” 41 0.091 - 0.28 2.9 - nd nd 37 nd 37
+Kakila 2.89 14 0.66 0.40 9.2 56° 9° 12° 54° 53° 91
+Koi 2.38 1.19 nd nd 11.4 74" 61° 30° 163? 171° 295
+Kuli, Bhut Bailla? 14 22 - 0.55 3.7 - nd nd 37 nd 37
+Magur 4.83 nd nd 0.13 9.4 64° 4 8° via 15° 25
+Meni, Bheda” 0.90 0.78 - 0.36 3.5 - nd nd 36 61 60
+Mola 7.98 2.03 2.9 0.27 nd nd* nd* 460° 323° 4990° 2503
+Mola (cultured)” 5.9 3.0 - 0.91 43 - 44 42 340 4590 2226
+Rani, Bou? 64 0.12 - 0.63 3.2 - nd nd nd 60 24
+Shing 12.8 nd nd 0.34 nd 45° 5° 11° 11° 22° 32
+Taki 1.60 nd nd 0.14 nd 22° 9° 13° 84° 104° 139
+Tara Baim 5.20 nd nd 0.17 nd 135° 2 15° 16° 120° 83
+Tengra” 3.5 0.19 - 0.23 10 - nd nd nd 29 12
+Tit Punti 6.74 0.995 nd 0.16 nd 25° 4 5° 11° 8° 21
+Large fish species
+Gojar? 0.55 0.42 - 0.28 2.0 - nd nd nd nd nd
+lish? 2.3 18 - 1.7 15 - nd nd nd 49 20
+Jatka Ilish? 2.0 9.0 - 1.9 3.2 - nd nd nd 36 14
+Shol” 12 0.18 - 0.52 24 - nd nd nd nd nd
+Shrimp/prawn
+Harina Chingri? 14 0.055 - 1.6 14 - nd nd nd nd nd
+Inland aquaculture
+Indigenous major carps
+Catla” 13 0.28 - 0.23 44 - nd nd 22 nd 22
+Mrigal 5.57 0.616 0.39 nd nd nd* 2 2° g? 9° 15
+Rui 5.05 1.17 nd 0.12 nd oe 2 1° g? 4 13
+Introduced fish species
+Silver Carp” 0.55 0.24 - 0.49 77 - nd nd nd nd nd
+Thai Pangas” 15 0.13 - 0.32 9.0 - nd nd nd 78 31
+Majhari Thai Pangas® = 14 0.12 - 0.10 15 - nd nd nd 31 12
+Thai Sharpunti” 2.2 23 - 0.32 2.2 - nd nd 12 nd 12
+Tilapia? 0.70 63 - 0.40 76 - nd nd 10 nd 10
+Majhari Tilapia” 25 34 - 1.5 8.0 - nd nd 10 27 21
+Marine capture
+Foli Chanda? 15 0.097 - 0.19 48 - nd nd nd nd nd
+Kata Phasa” 13 3.8 - 0.37 8.6 - nd nd nd nd nd
+Lal Poa? 2.0 13 - 0.38 77 - nd nd nd nd nd
+Maita” 16 17 - 0.50 2.5 - nd nd nd nd nd
+Murbaila® 0.50 0.20 - 0.09 2.2 - nd nd nd nd nd
+Tailla® 0.85 13 - 0.44 3.1 - nd nd nd nd nd
+Tular Dandi? 17 0.28 - 0.26 8.7 - nd nd 20 nd 20
+
+* Data on vitamin A components previously published by Roos (2001).
+
+> Data on all vitamin components analysed at DTU, Denmark.
+© wg RAE, retinol activity equivalent.
+
+-, no data available.
+
+nd, not detected. Limit of detection: vitamin A components, 10 j1g/100 g; vitamin D2, 0.1 g/100 g;
+
+n=1 pooled sample.
+
+itamin D3, 0.1 .g/100 g; vitamin E, 0.11 IU/100 g (equivalent to 0.074 mg/
+100g using conversion factor vitamin E;tocopherot) (Mg/100 g)=vitamin Ecrocopherot) (IU/100 g) x 0.67; (FAO/INFOODS, 2012).
+
+130 J.R. Bogard et al./Journal of Food Composition and Analysis 42 (2015) 120-133
+
+analysed would generally be considered low dietary sources of
+folate, and therefore unlikely to contribute significantly to dietary
+folate intake in Bangladesh.
+
+3.4, Fatty acid composition
+
+All samples with a total fat content of >6 g/100 g were analysed
+further for composition of 38 fatty acids and the results are shown
+in Table 7 (in addition to juvenile Thai Pangas which had a total fat
+content of 1.4g/100g but was analysed for the purpose of
+comparison with its adult counterpart). Although it is recognised
+that fish species with fat content <6 g/100 g may well be good
+sources of fatty acids, due to resource constraints in this study,
+species with higher total fat content were prioritised for analyses.
+Total PUFA, monounsaturated fatty acid (MUFA) and saturated
+fatty acid (SFA) contents ranged from 0.5 to 3.6 g/100 g, 0.4-7.7 g/
+100g and 0.5-8.9g/100g, respectively. Ilish was the most
+significant source of PUFA and SFA, whereas Thai Pangas was
+
+Table 7
+Fatty acid composition of fish species.
+
+the most significant source of MUFA. The total n-3 PUFA content
+ranged from 211 to 2034mg/100g, with the most significant
+sources being Ilish and Parse. Total n-6 PUFA content ranged from
+178 to 2157 mg/100 g, with the most significant sources being Thai
+Pangas and Jat Punti. The ratio of n-6:n-3 PUFA was highest in Thai
+Pangas, which is also the only farmed and omnivorous fish
+analysed here (except for its juvenile counterpart). This may reflect
+differences in the diet and or environmental conditions of farmed
+versus capture fish among other factors (Li et al., 2011), although
+this would require further investigation. A more balanced n-6:n-3
+PUFA ratio is more desirable in prevention of cardiovascular and
+other chronic diseases (Simopoulos, 2008), however this evidence
+relates to higher disease risk with low n-3 intake, rather than high
+n-6 intake or a high n-6:n-3 PUFA ratio and as such, no dietary
+recommendation for such a ratio exists (FAO, 2010). The
+percentage contribution to daily average nutrient requirement
+of docosahexaenoic acid (DHA) for PLW and infants (7-23 months)
+from a standard portion of fish is shown in Fig. 2, and clearly
+
+Nutrient* Unit Nutrient content per 100g raw edible parts
+
+llish Jatka Jat Kajuli, Koi Modhu Parse Rani, Thai Majhari
+
+llish Punti Bashpata Pabda Bou Pangas Thai Pangas
+
+Total fat (mean) g 18.3 7.7 7.2 12.6 12.8 9.5 14.3 10.6 17.7 1.4
+Total SFA g 8.9 3.8 2.2 5.4 48 3.6 74 4 7.5 0.5
+Total MUFA g 69 2.5 2.4 5.2 5.7 42 45 4 77 0.4
+Total PUFA g 3.6 1.6 2.5 2.1 1.9 1.7 2.7 2.7 2.6 0.5
+12:0 mg 13 32 30 65 11 20 12 180 nd nd
+C13:0 mg nd nd nd nd nd 10 nd 35 nd nd
+14:0 mg 1550 710 100 580 270 150 630 430 620 52
+C15:0 mg 64 36 56 100 36 98 310 160 29 nd
+C16:0 mg 5780 2310 1290 3270 3270 2270 5530 2690 5180 310
+C17:0 mg 36 28 88 180 55 120 160 230 31 22
+C18:0 mg 1320 620 570 1120 1050 750 610 100 1560 130
+20:0 mg 25 16 28 41 39 43 26 36 35 nd
+22:0 mg 19 18 16 17 11 27 18 19 19 nd
+24:0 mg 20 22 19 42 28 41 21 42 nd nd
+C14:1 mg 11 nd 28 100 14 98 63 71 11 18
+C15:1 mg nd nd 15 38 nd 39 21 38 nd nd
+C16:1 mg 2110 820 190 580 390 490 1930 760 160 51
+C171 mg 10 nd 22 72 27 62 150 92 16 nd
+C18:1n-6 mg nd nd nd nd 16 13 53 12 nd nd
+C18:1n-7 mg 700 280 130 310 230 270 470 370 210 48
+C18:1n-9 mg 3730 1240 1790 3680 4890 2850 1490 2040 7010 180
+C20:1n-9 mg 250 65 32 52 120 83 30 61 210 nd
+C€20:1n-11,13 mg nd nd 34 15 11 41 22 120 14 nd
+C22:1n-9 mg 24 nd nd nd 47 nd nd nd 23 nd
+C22:1n-11,13 mg nd nd nd nd nd nd nd nd nd nd
+24:1 mg 25 15 nd nd 10 nd 12 nd nd nd
+C18:2n-6 (LA) mg 120 88 1710 410 1100 760 220 440 1820 77
+C18:3n-6 mg 47 16 43 33 80 25 91 31 42 nd
+C20:2n-6 mg nd nd nd 25 nd 71 nd nd 77 nd
+C20:3n-6 mg 57 21 46 46 65 55 27 61 110 15
+C20:4n-6 mg 170 110 140 260 57 200 165 230 70 57
+C22:4n-6 mg 34 20 35 53 22 32 34 56 38 29
+C22:5n-6 mg 58 21 nd nd nd nd 13 nd nd nd
+Total n-6 PUFA mg 486 276 1974 827 1324 1143 550 818 2157 178
+C18:3n-3 (ALA) mg 24 27 150 430 81 140 370 300 140 69
+C18:4n-3 mg 110 50 19 nd 18 nd 300 16 nd nd
+C20:3n-3 mg nd nd nd 25 nd 28 26 55 13 nd
+C20:4n-3 mg 120 44 10 81 19 13 99 48 11 20
+C20:5n-3 (EPA) mg 1200 430 40 160 30 68 400 96 13 38
+C21:5n-3 mg nd nd nd nd nd nd nd nd 11 nd
+C22:5n-3 mg 270 94 24 120 59 53 120 84 19 24
+C22:6n-3 (DHA) mg 310 230 86 190 170 100 120 120 37 60
+Total n-3 PUFA mg 2034 875 329 1006 377 402 1435 719 244 211
+n-6: n-3 PUFA - 0.2:1 0.3:1 6:1 0.8:1 3.5:1 2.8:1 0.4:1 11:1 8.8:1 0.8:1
+
+* SFA, saturated fatty acid; MUFA, monounsaturated fatty acid; PUFA, polyunsaturated fatty acid; LA, linoleic acid; ALA, a-linolenic acid; EPA, eicosapentaenoic acid; DHA,
+
+docosahexaenoic acid.
+nd, not detected. Limit of detection for all fatty acids: 6 mg/100g.
+n=1 pooled sample.
+
+JR. Bogard et al./Journal of Food Composition and Analysis 42 (2015) 120-133 131
+
+Lish nines ==
+
+Jatka Ilish
+
+Kajuli, Bashpata
+Koi
+Rani, Bou
+Parse =PLW
+=
+=
+
+Modhu Pabda nfants (7-23 mo)
+Jat Punti
+
+Majhari Thai Pangas
+
+Thai Pangas
+
+°
+
+10 20 30 40 50 60 70 80
+
+Potential contribution to daily DHA requirement (%)
+
+Fig. 2. Potential contribution to daily nutrient requirement? of docosahexaenoic acid
+(DHA) from a standard serve? of fish for PLW¢ and infants (7-23 months).
+
+(a) Daily average nutrient requirement of DHA for PLW is 200 mg/day and the
+adequate intake for infants is 10-12 mg/kg/day (FAO, 2010). For infants an average
+figure of 110 mg/day is used. This was calculated by taking the midpoint within the
+maximum range of adequate intakes throughout the age period (10 mg/kg/day fora7
+month old of 7.6 kg and 12 mg/kg/day for a 23 month old of 12.0 kg) where weight is
+estimated at the 50th percentile according to WHO growth standards (WHO, 2006).
+(b) Standard serve of fish for PLW is 50 g/day and for infants is 25 g/day.
+
+(c) PLW, pregnant and lactating women.
+
+demonstrates that all species, except adult and juvenile Thai
+Pangas would contribute >20% of daily requirements of DHA for
+both PLW and infants. This is of particular interest given the
+growing body of literature on the role of fatty acids in growth and
+development during the first 1000 days, and specifically, the role of
+DHA in normal retinal and brain development (FAO, 2010). The
+data presented here indicate that important fish species in
+Bangladesh, particularly indigenous species are a good dietary
+source of fatty acids and should be considered in food-based
+approaches to optimise growth and development during the first
+1000 days. It is also recommended that the fatty acid composition
+of further species be analysed.
+
+3.5. Species size, edible parts and biodiversity
+
+When making comparisons between species on their overal
+nutritional value, it is important to consider the size of the fish, and
+implications for what is typically considered ‘edible’ parts. SIS are
+typically consumed whole with head, bones and in some cases,
+viscera, in stark contrast to large species, where edible parts
+typically include body tissue only. The nutritional consequences o!
+this can be seen when anatomical components of fish are analysed
+separately. For example, in Mola, the eyes and viscera have an
+extremely high concentration of vitamin A compared to the body
+tissue (Roos et al., 2002). Although separate anatomical parts have
+not been analysed here, this trend can be seen when considering
+the edible parts of SIS compared to that of large indigenous and
+aquaculture species (Table 1), and potential contributions to RNIs
+(Table 5). When considering iron, zinc, calcium, vitamin A and
+vitamin B12 requirements, there are seven species that would
+contribute to >25% of RNI for PLW and six species that would
+contribute to >25% of RNI for infants, for three or more
+micronutrients simultaneously, when consumed in a 50g or
+25g portion, respectively. These species are all SIS (except for
+Najara Icha which is a prawn) and edible parts include head and
+bones. This underlines the importance of considering typica
+consumption patterns, often related to size of the individual fish,
+shrimp or prawn, in design of programmes that aim to influence
+production and or consumption of fish. One promising example o:
+this, now gaining momentum, is the inclusion of nutrient-rich
+
+Mola in pond polyculture systems with carps, which is being
+promoted throughout rural Bangladesh (Thilsted and Wahab,
+2014b,c).
+
+Table 5 also calls attention to the variation in potential nutrient
+contributions of different species. For example, some species
+contribute significantly to iron and calcium RNIs and less so to
+vitamin A, whereas, others contribute more to zinc and vitamin A
+RNIs and less so to iron RNIs. No single species is of resounding
+superior nutritional value than any other single species, across all
+nutrients, which emphasises the importance of biodiversity in fish
+consumption for meeting population nutrient needs.
+
+3.6. Limitations
+
+Nutrient composition of foods, including fish, is known to vary
+seasonally, depending on the stage of the life cycle, food availability,
+and changes in the wider environment. It was however, outside the
+scope of this study to attempt to sample to account for these
+variations. Furthermore, a relatively small size of pooled samples
+was used, and in the case of analysis of fatty acids, the use of single
+replicates. In the local context and considering resource constraints,
+it was also not possible to obtain larger more representative sample
+sizes. Another limitation of this study is the use of different methods
+for analysis of vitamin B12 and folate between species analysed by
+different laboratories, although the methods are generally consid-
+ered similar (Indyk and Woollard, 2013; Indyke et al., 2002).
+Therefore, while it is recognised that these are limitations of the
+study, given the lack of existing data on nutrient composition of fish
+species in Bangladesh, the results are still of significant value,
+providing time and location specific estimates for comparison with
+future analyses.
+
+4. Conclusions
+
+Several species have been identified that would contribute
+significantly to the RNIs of multiple nutrients of public health
+significance. When considering the role of fish in food and nutrition
+security in recent decades, research, funding and interventions
+have largely focused on the development of aquaculture,
+particularly of large carps and introduced species, with an assumed
+benefit for nutrition-related outcomes, although this linkage is
+dubious. The data presented here show that from a nutritional
+perspective, species from inland capture fisheries, particularly
+small indigenous species (SIS), hold the potential to provide a
+much greater contribution to micronutrient intakes of vulnerable
+groups in the population compared to common aquaculture
+species. This is likely partially due to the way in which small fish
+are consumed, namely, whole with head and bones. Further still,
+given the large range in nutrient composition of the different
+species reported here, diversity in fish consumption, particularly of
+SIS, is likely to promote a more all-inclusive nutrient intake. This
+supports the compelling argument that to effectively target
+malnutrition, resources should be directed towards ensuring a
+more balanced approach of both sustainable capture fisheries
+management and aquaculture, including the development of
+innovative aquaculture technologies which include nutrient-rich
+species, in particular SIS. This paper significantly expands the
+current knowledge on the nutritional value of the large diversity of
+fish species in Bangladesh, and demonstrates that many species,
+particularly SIS and those from inland capture fisheries, have the
+potential to contribute significantly to RNIs for a variety of
+nutrients. In future studies, it would be useful to determine the
+real contribution of different species to nutrient intakes of
+vulnerable groups based on consumption, to better inform
+programmes targeting improved access, availability and consump-
+tion of nutritious foods.
+
+
+132 J.R. Bogard et al./Journal of Food Composition and Analysis 42 (2015) 120-133
+
+Acknowledgements
+
+The authors wish to thank Mr. Nazmush Sakib and Ms. Rabeya
+Yasmin, M.Sc. students, Bangladesh Agricultural University,
+Mymensingh for their tireless efforts in collection, identification
+and preparation of fish samples. The work reported in this paper
+was partially funded by the U.S. Agency for International
+Development (USAID) Feed the Future initiative, through the
+Aquaculture for Income and Nutrition (AIN) project, implemented
+by WorldFish, in Bangladesh. The contents and opinions expressed
+herein are those of the authors and do not necessarily reflect the
+views of USAID or the United States Government. This work is a
+contribution to the CGIAR Research Program (CRP) on Aquatic
+Agricultural Systems (AAS).
+
+References
+
+Ababouch, L., 2005. Lipids. FAO Fisheries and Aquaculture Department, Rome,
+Italy. Available from: http://www.fao.org/fishery/topic/14826/en (retrieved
+27.03.14).
+
+Alam, A.K.M.N., Mohanty, B.P., Hoq, M.E., Thilsted, S.H., 2012. Nutritional values,
+consumption and utilization of Hilsa Tenualosa ilisha (Hamilton 1822). In:
+Proceedings of the Regional Workshop on Hilsa: Potential for Aquaculture, 16-
+17 September 2012, Dhaka, Bangladesh.
+
+Ames, S.R., Swanson, W,J., Harris, P.L., 1955. Biochemical studies on vitamin A. XIV.
+Biopotencies of geometric isomers of vitamin A acetate in the rat. Journal of the
+American Chemical Society 77, 4134-4136.
+
+APA, AWA, WEF, 2012. Metals in water by ICP/MS: Section 3125. In: Rice, E.W.,
+Baird, R.B., Eaton, A.D., Clesceri, L.S. (Eds.), Standard Methods for the Examina-
+tion of Water & Wastewater. 22nd ed. American Public Health Association,
+American Waterworks Association, Water Environment Federation, Washing-
+ton, DC.
+
+Arsenault, J.E., Yakes, E.A., Islam, M.M., Hossain, M.B., Ahmed, T., Hotz, C., Lewis, B.,
+Rahman, A.S., Jamil, K.M., Brown, K.H., 2013. Very low adequacy of micronutri-
+ent intakes by young children and women in rural Bangladesh is primarily
+explained by low food intake and limited diversity. Journal of Nutrition 143,
+197-203.
+
+Bannon, C.D., Craske, J.D., Hilliker, A.E., 1985. Analysis of fatty acid methyl esters
+with high accuracy and reliability. IV. Fats with fatty acids containing four or
+more carbon atoms. Journal of the American Oil Chemists Society 62, 1501-
+1507.
+
+Belton, B., Thilsted, S.H., 2014. Fisheries in transition: Food and nutrition security
+implications for the global South. Global Food Security 3, 59-66.
+
+Belton, B., van Asseldonk, I,J.M., Thilsted, S.H., 2014. Faltering fisheries and ascen-
+dant aquaculture: implications for food and nutrition security in Bangladesh.
+Food Policy 44, 77-87.
+
+Brubacher, G.B., Muller-Mulot, W., Southgate, D.A.T., 1985. Methods for the deter-
+mination of vitamins in food: recommended by COST, vol. 91. Elsevier Applied
+Science Publishers Ltd., London.
+
+Byrdwell, W.C., Horst, R.L., Phillips, K.M., Holden, J.M., Patterson, K.Y., Harnly, J.M.,
+Exler, J., 2013. Vitamin D levels in fish and shellfish determined by liquid
+chromatography with ultraviolet detection and mass spectrometry. Journal of
+Food Composition and Analysis 30, 109-119.
+
+CEN, 2003. Foodstuffs - Determination of folate by microbiological assay. EN
+14131:2003 European Committee for Standardization.
+
+Center for Intercultural Learning, 2010. Map - Bangladesh. Available from http://
+www. intercultures.ca/cil-cai/map-carte-eng.asp?iso=bd (retrieved 17.12.14).
+
+Craviari, T., Pettifor, J.M., Thacher, T.D., Meisner, C., Arnaud, J., Fischer, P.R., 2008.
+Rickets: an overview and future directions, with special reference to
+Bangladesh. Journal of Health. Population and Nutrition 26, 112-121.
+
+de Benoist, B., 2008. Conclusions of a WHO technical consultation on folate and
+vitamin B12 deficiencies. Food and Nutrition Bulletin 29, S238-S244.
+
+FAO, 2010. Fats and fatty acids in human nutrition: report of an expert consultation.
+FAO Food and Nutrition Paper, vol. 91. Food and Agriculture Organization of the
+United Nations, Rome, Italy.
+
+FAO, WHO, 2004a. Vitamin and Mineral Requirements in Human Nutrition: Report
+of a Joint FAO/WHO Expert Consultation, 2nd ed. Food and Agriculture
+Organization of the United Nations, World Health Organization, Geneva,
+Switzerland.
+
+FAO/INFOODS, 2012. Guidelines for Converting Units, Denominators and Expres-
+sions, Version 1.0 FAO, Rome, Italy.
+
+FAO/INFOODS, 2013. FAO/INFOODS Food Composition Database for Biodiversity
+Version 2.1 - BioFoodComp2.1 Food and Agriculture Organization of the United
+Nations, Rome, Italy.
+
+FAO/WHO, 2004b. Vitamin and Mineral Requirements in Human Nutrition: Report
+of a Joint FAO/WHO Expert Consultation, 2nd ed. Food and Agriculture
+Organization of the United Nations, World Health Organization, Geneva,
+Switzerland.
+
+Fischer, P., Rahman, A., Cimma, J., Kyaw-Myint, T., Kabir, A., Talukder, K., Hassan, N.,
+Manaster, B., Staab, D., Duxbury, J., Welch, R., Meisner, C., Haque, S., Combs, G.,
+
+1999. Nutritional rickets without vitamin D deficiency in Bangladesh. Journal of
+Tropical Pediatrics 45, 291-293.
+
+FSANZ, 2010. NUTTAB 2010 Online Searchable Database. Available from: http://
+www.foodstandards.gov.au/science/monitoringnutrients/nutrientables/
+nuttab/Pages/default.aspx (retrieved 19.12.14).
+
+Government of the People’s Republic of Bangladesh, 2005a. Bangladesh: Unlocking
+the Potential. National Strategy for Accelerated Poverty Reduction Planning
+Commission of the General Economics Division.
+
+Government of the People’s Republic of Bangladesh, 2005b. Sixth Five Year Plan:
+FY2011-FY2015. Accelerating Growth and Reducing Poverty Planning Commis-
+sion of the General Economics Division.
+
+Government of the People’s Republic of Bangladesh, 2006. National Food Policy.
+Ministry of Food and Disaster Management.
+
+Government of the People’s Republic of Bangladesh, 2011. Country Investment
+Plan: A Roadmap Towards Investment in Agriculture, Food Security and Nutri-
+tion. Ministry of Food and Disaster Management.
+
+ICDDRB, 2009. National rickets survey in Bangladesh, 2008. Health and Science
+Bulletin 7, 7-11.
+
+ICDDRB, UNICEF, GAIN, IPHN, 2013. National Micronutrients Status Survey 2011-
+12. Final Report ICDDRB, Dhaka, Bangladesh.
+
+Indyk, H.E., Woollard, D.C., 2013. Single laboratory validation of an optical biosensor
+method for the determination of folate in foods. Journal of Food Composition
+and Analysis 29, 87-93.
+
+Indyke, H., Persson, B.S., Caselunghe, M.C., Moberg, A., Filonzi, E.L., Woollard, D.C.,
+2002. Determination of vitamin B12 in milk products and selected foods by
+optical biosensor protein-binding assay: method comparison. Journal of AOAC
+International 85, 72-81.
+
+INFS, 2013. Food Composition Table for Bangladesh. Institute of Nutrition and Food
+Science, Dhaka, Bangladesh.
+
+ISO, 2005. General Requirements for the Competence of Testing and Calibration
+Laboratories. ISO/IEC 17025 International Organization for Standardization.
+
+Jakobsen, J., Maribo, H., Bysted, A., Sommer, H.M., Hels, O., 2007. 25-Hydroxyvita-
+min D3 affects vitamin D status similar to vitamin D3 in pigs - but the meat
+produced has a lower content of vitamin D. British Journal of Nutrition 98, 908-
+913.
+
+JPGSPH, HKI, 2012. State of Food Security and Nutrition in Bangladesh: 2011. James
+P Grant School of Public Health, Helen Keller International, Dhaka, Bangladesh.
+
+Larsen, T., Thilsted, S.H., Kongsbak, K., Hansen, M., 2000. Whole small fish as a rich
+calcium source. British Journal of Nutrition 83, 191-196.
+
+Li, G., Sinclair, AJ., Li, D., 2011. Comparison of lipid content and fatty acid composi-
+tion in the edible meat of wild and cultured freshwater and marine fish and
+shrimps from China. Journal of Agricultural and Food Chemistry 59, 1871-1881.
+
+Merill, A.L., Watt, B.K., 1973. Energy value of foods: basis and derivation. In: United
+States Department of Agriculture Handbook74th ed. Washington, DC, US Gov-
+ernment Printing Office.
+
+NIPORT, Mitra and Associates, ICF International, 2013. Bangladesh Demographic
+and Health Survey 2011. National Institute of Population Research and Training,
+Mitra and Associates, ICF, International, Dhaka; Maryland.
+
+Nord, P., 1960. Pharmacopoea Nordica. Nyt Nordisk Forlag Arnold Busck, Copenha-
+gen, Denmark.
+
+Ottin, Hellwig, J.P., Meyers, L.D., 2006. Dietary Reference Intakes: The Essential
+Guide to Nutrient Requirements. Washington, DC, Institute of Medicine.
+
+Rao, S.D., Raghuramulu, N., 1996. Food chain as origin of vitamin D in fish.
+Comparative Biochemistry and Physiology Part A: Physiology 114, 15-19.
+Riabroy, N., Anumihardjo, S.A., 2011. Alpha-retinol supports growth in rats despite
+its inability to bind to retinol-binding protein and 3,4-didehydroretinol is as
+bioactive as retinol when fed at equimolar amounts. Journal of the Federation of
+
+American Societies for Experimental Biology 25, 332-333.
+
+Roos, N., 2001. Fish Consumption and Aquaculture in Rural Bangladesh: Nutritional
+Impact and Production Potential of Culturing Small Indigenous Fish Species
+(SIS) in Polyculture with Commonly Cultured Carps. (Ph.D. thesis)Research
+Department of Human Nutrition, The Royal Veterinary and Agricultural Uni-
+versity, Copenhagen, Denmark.
+
+Roos, N., Leth, T., Jakobsen, J., Thilsted, S.H., 2002. High vitamin A content in some
+small indigenous fish species in Bangladesh: perspectives for food-based strat-
+egies to reduce vitamin A deficiency. International Journal of Food Sciences and
+Nutrition 53, 425-437.
+
+Roos, N., Wahab, M.A., Chamnan, C., Thilsted, S.H., 2007a. The role of fish in food-
+based strategies to combat vitamin A and mineral deficiencies in developing
+countries. Journal of Nutrition 137, 1106-1109.
+
+Roos, N., Wahab, M.A., Hossain, M.A.R., Thilsted, S.H., 2007b. Linking human
+nutrition and fisheries: incorporating micronutrient-dense, small indigenous
+fish species in carp polyculture production in Bangladesh. Food and Nutrition
+Bulletin 28, S280-S293.
+
+Shantz, E.M., Brinkman, J.H., 1950. Biological activity of pure vitamin A2. Journal of
+Biological Chemistry 183, 467-471.
+
+Simopoulos, A.P., 2008. The importance of the omega-6/omega-3 fatty acid ratio in
+cardiovascular disease and other chronic diseases. Experimental Biology and
+Medicine 233, 674-688.
+
+Thilsted, S.H., 2010. Improved management, increased culture and consumption of
+small fish species can improve diets of the rural poor. In: Burlingame, B.,
+Dernini, S. (Eds.), Sustainable Diets and Biodiversity: Directions and Solutions
+for Policy, Research and Sction. 1st ed. Food and Agriculture Organization of the
+United Nations, Bioversity International, Rome, Italy.
+
+Thilsted, S.H., Wahab, M.A., 2014a. Nourishing Bangladesh with Micronutrient-Rich
+Small Fish. Policy Brief: AAS-2014-08. Available from: http://www.worldfishcenter.
+
+
+JR. Bogard et al./Journal of Food Composition and Analysis 42 (2015) 120-133 133
+
+org/resource_centre/AAS-2014-08.pdf (retrieved 01.05.14)WorldFish, CGIAR Re-
+search Program on Aquatic Agricultural Systems, Penang, Malaysia.
+
+Thilsted, S.H., Wahab, M.A., 2014b. Polyculture of Carps and Mola in Ponds and
+Ponds Connected to Rice Fields. WorldFish, CGIAR Research Program on Aquatic
+Agricultural Systems, Penang, Malaysia. Brochure: AAS-2014-06. Available
+from: http://www.worldfishcenter.org/resource_centre/AAS-2014-06.pdf (re-
+trieved 01.05.14).
+
+Thilsted, S.H., Wahab, M.A., 2014c. Pond Polyculture Technologies Combat Micro-
+nutrient Deficiencies and Increase Household Income in Bangladesh. WorldFish,
+CGIAR Research Program on Aquatic Agricultural Systems, Penang, Malaysia.
+
+Policy Brief: AAS-2014-09. Available from: http://www.worldfishcenter.org/
+resource_centre/AAS-2014-09.pdf (retrieved 01.05.14).
+Tornqvist, R., Jarsj6, J., Karimov, B., 2011. Health risks from large-scale water
+pollution: trends in Central Asia. Environment International 37, 435-442.
+Vlieg, P., Lee, J. Grace, N.D., 1991. Elemental concentration of marine and freshwater
+finfish, and shellfish from New Zealand waters. Journal of Food Composition and
+Analysis 4, 136-147.
+
+WHO, 2007. Protein and Amino Acid Requirements in Human Nutrition: Report of a
+Joint WHO/FAO/UNU Expert Consultation. WHO Technical Report Series World
+Health Organization, Geneva, Switzerland.

@@ -1,0 +1,14 @@
+Unnamed: 0,Unnamed: 1,Src Plugin src,Unnamed: 2,sink,Filter Plugin src,Unnamed: 3,sink.1,Sink Plugi
+Component,Function,,,,,,,
+,Basic building block connected,,,,BIN,,,
+PLUGINS,,,,,,,,
+,through PADs,,,,,,,
+,,src,Plugin1,,Plugin2,,,sink
+,A container for a collection of,,,,,,,
+BINS,plugins,,,,,,,
+,,,,,PIPELINE,,,
+,,SOURCE BIN,,,PROCESS BIN,,,SINK BIN
+,Top level bin providing a bus and,,,,,,,
+PIPELINE,managing the synchronization,Video,,,,,,
+,,Decoder,,,Scale Filter,,,Display
+,,File,,,,,,

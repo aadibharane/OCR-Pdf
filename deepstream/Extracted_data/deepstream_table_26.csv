@@ -1,0 +1,9 @@
+Buffers Input,Unnamed: 0,Unnamed: 1,Unnamed: 2
+Decoder / Camera 1,Batching Round robin,,
+,,,NV12/RGBA Batc
+,,,Buffer and
+Decoder / Camera 2,,Scaling,
+NV12 / RGBA,,,NvStreamMeta
+,Batch of N,,
+,buffers of size,,
+Decoder / Camera...,(W x H),,
